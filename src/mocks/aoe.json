@@ -1,0 +1,1100 @@
+{
+    "civs": [
+        {
+            "civilizacion": "Aztecas",
+            "icono": "CivIcon-Aztecas.webp",
+            "especialidad": "Infantería y monjes",
+            "unidad_unica": {
+                "nombre": "Guerrero Jaguar",
+                "icono": "Guerrero_Jaguar_Icono-DE.webp",
+                "especialidad": "Infanteria",
+                "mejora": "Guerrero Jaguar de Élite"
+            },
+            "tecnologias_unicas": {
+                "castillos": "Átlatl",
+                "castillos_info": "El ataque y el alcance de los Guerrilleros y Genitores aumenta en +1",
+                "imperial": "Guerras Florales",
+                "imperial_info": "Aumenta el ataque de la infantería en +4"
+            },
+            "bonificaciones_civilizacion": [
+                "Comienzan el juego con un Explorador Águila",
+                "Comienzan con +50 oro",
+                "Aldeanos cargan +3 recursos",
+                "Unidades militares son creadas 11% más rápido",
+                "Monjes obtienen +5 RES por cada tecnología desarrollada en el monasterio"
+            ],
+            "bonificacion_equipo": "Reliquias generan +33% oro"
+        },
+        {
+            "civilizacion": "Bengalíes",
+            "icono": "CivIcon_Bengalies.webp",
+            "especialidad": "Elefantes y Naval",
+            "unidad_unica": {
+                "nombre": "Ratha",
+                "icono": "Ratha_Icono.webp",
+                "especialidad": "Arquero Caballeria",
+                "mejora": "Ratha de Élite"
+            },
+            "tecnologias_unicas": {
+                "castillos": "Paiks",
+                "castillos_info": "Aumenta la velocidad de ataque de los Rathas y de las Unidades en elefante en un 33%",
+                "imperial": "Mahayana",
+                "imperial_info": "Reduce el espacio de población de los aldeanos en un 10%"
+            },
+            "bonificaciones_civilizacion": [
+                "Las Unidades en elefante reciben -25% de daño y son más resistentes a la conversión.",
+                "Los Centros Urbanos generan 2 Aldeanos cuando se alcanza una siguiente Edad",
+                "Los barcos regeneran 15 PR/minuto",
+                "Monjes +3/+3 de armadura"
+            ],
+            "bonificacion_equipo": "Las unidades de comercio traen 10% comida además de oro"
+        },
+        {
+            "civilizacion": "Bereberes",
+            "icono": "CivIcon-Berberes.webp",
+            "especialidad": "Camellos y barcos",
+            "unidad_unica": {
+                "nombre": "Camello Arquero",
+                "icono": "CamelloArquero_Icono-DE.webp",
+                "especialidad": "Arquero Caballeria",
+                "mejora": "Camello Arquero de Élite"
+            },
+            "tecnologias_unicas": {
+                "castillos": "Alcazabas",
+                "castillos_info": "Aumenta la velocidad de trabajo de todos Castillos del equipo en un 25%",
+                "imperial": "Dromedarios Magrebíes",
+                "imperial_info": "Las Unidades a camello regeneren sus puntos de resistencia"
+            },
+            "bonificaciones_civilizacion": [
+                "Aldeanos y barcos se mueven 10% más rápido",
+                "La Caballería cuesta -15%/-20% en la Edad de los Castillos/Imperial"
+            ],
+            "bonificacion_equipo": "Escaramuzador Zenete disponible en la Galería de tiro con arco desde la Edad de los Castillos"
+        },
+        {
+            "civilizacion": "Birmanos",
+            "icono": "CivIcon-Birmanos.webp",
+            "especialidad": "Monjes y Elefantes",
+            "unidad_unica": {
+                "nombre": "Arambai",
+                "icono": "Arambai_Icono-DE.webp",
+                "especialidad": "Arquero Caballeria",
+                "mejora": "Arambai de Élite"
+            },
+            "tecnologias_unicas": {
+                "castillos": "Howdah",
+                "castillos_info": "Le da +1/+2 de armadura a los Elefantes de Combate",
+                "imperial": "Caballería Manipur",
+                "imperial_info": "Otorga a toda la caballería +5 de ataque contra arqueros"
+            },
+            "bonificaciones_civilizacion": [
+                "Las tecnologías del Campamento maderero son gratis",
+                "Infantería tiene +1 (Feudal)/+2 (Castillos)/+3 (Imperial) de ataque",
+                "Elefantes de Combate tienen +1/+1 de armadura",
+                "Las tecnologías del Monasterio cuestan -50%"
+            ],
+            "bonificacion_equipo": "Las Reliquias son visibles desde el inicio de la partida"
+        },
+        {
+            "civilizacion": "Bizantinos",
+            "icono": "CivIcon-Bizantinos.webp",
+            "especialidad": "Defensa",
+            "unidad_unica": {
+                "nombre": "Catafracta",
+                "icono": "Catafacta-Icono-DE.webp",
+                "especialidad": "Caballeria",
+                "mejora": "Catafracta de Élite"
+            },
+            "tecnologias_unicas": {
+                "castillos": "Fuego Griego",
+                "castillos_info": "Aumenta el alcance de los Brulotes en +1",
+                "imperial": "Logística",
+                "imperial_info": "Ahora las Catafractas hacen daño de área cuando atacan, +5 daño a todas las unidades enemigas adyacentes"
+            },
+            "bonificaciones_civilizacion": [
+                "Edificios tienen +10% (Alta Edad Media)/+20% (Ed.Feudal)/+30% (Ed. Castillos)/+40% (Ed. Imperial) Puntos de Resistencia",
+                "Camellos, Guerrilleros y Lanceros cuestan -25%",
+                "Brulotes +20% (de velocidad) de ataque",
+                "Advanzar a la Edad Imperial cuesta -33%",
+                "Guardia Urbana y Patrulla Urbana gratis"
+            ],
+            "bonificacion_equipo": "Monjes sanan 100% más rápido"
+        },
+        {
+            "civilizacion": "Bohemios",
+            "icono": "Bohemios_Icono.webp",
+            "especialidad": "Unidades de pólvora y Monjes",
+            "unidad_unica": {
+                "nombre": "Carro de guerra husita",
+                "icono": "Carreta_Husita_Icono.webp",
+                "especialidad": "Asedio",
+                "mejora": "Carro de guerra husita de Élite"
+            },
+            "unidad_unica_2": {
+                "nombre": "Obús",
+                "icono": "Houfnice_Icono.webp",
+                "especialidad": "Asedio"
+            },
+            "tecnologias_unicas": {
+                "castillos": "Táctica de fuerte de carretas",
+                "castillos_info": "Las unidades de pólvora (Artillero Manual, Cañón de asedio, Houfnice, Galeón artillado y Carreta Husita) se mueven un 15% más rápido",
+                "imperial": "Reformas husitas",
+                "imperial_info": "Vonvierte el coste en oro de los monjes y de las tecnologías del monasterio a comida"
+            },
+            "bonificaciones_civilizacion": [
+                "Herrerías y Universidades cuestan -100 madera",
+                "Química y Artillero Manual disponibles en la Edad de los Castillos",
+                "Lancero y subsiguientes hacen un +25% daño adicional",
+                "Fervor y Santidad afecta a los Aldeanos",
+                "Las tecnologías del Campamento minero (Age of Empires II) son gratis"
+            ],
+            "bonificacion_equipo": "Mercados trabajan un 80% más rápido"
+        },
+        {
+            "civilizacion": "Borgoñones",
+            "icono": "CivIcon-Borgo.webp",
+            "especialidad": "Caballería",
+            "unidad_unica": {
+                "nombre": "Coustillier",
+                "icono": "Coustillier_Icono.webp",
+                "especialidad": "Caballeria",
+                "mejora": "Coustillier de Élite"
+            },
+            "unidad_unica_2": {
+                "nombre": "Milicia Flamenca",
+                "icono": "Milicia_Flamenca_Icono.webp",
+                "especialidad": "Infanteria"
+            },
+            "tecnologias_unicas": {
+                "castillos": "Viñedos de Borgoña",
+                "castillos_info": "Ahora intercambia alimento por oro en un ratio de 2:1",
+                "imperial": "Revolución Flamenca",
+                "imperial_info": "Esta tecnología convierte a todos los aldeanos en Milicia Flamenca"
+            },
+            "bonificaciones_civilizacion": [
+                "Las mejoras económicas disponibles una edad antes y cuestan -40% alimento",
+                "Las tecnologías del Establo son un 50% mas baratas",
+                "Obtienen Caballero en la Edad de los Castillos",
+                "Unidades de pólvora infligen 25% mas de daño"
+            ],
+            "bonificacion_equipo": "Las Reliquias generan +30 alimento por minuto."
+        },
+        {
+            "civilizacion": "Britanos",
+            "icono": "CivIcon-Ingleses.webp",
+            "especialidad": "Arqueros",
+            "unidad_unica": {
+                "nombre": "Arquero de tiro largo",
+                "icono": "Arquero_Tiro_Largo_Icono-DE.webp",
+                "especialidad": "Arquero",
+                "mejora": "Arquero de tiro largo de Élite"
+            },
+            "tecnologias_unicas": {
+                "castillos": "Voluntarios de Caballería",
+                "castillos_info": "Aumenta el alcance de los arqueros a pie en +1 y aumenta el ataque de las Torres en +2",
+                "imperial": "Warwolf",
+                "imperial_info": "Hace que los Trebuchets provoquen daño en área, además de darles un 100% de puntería"
+            },
+            "bonificaciones_civilizacion": [
+                "Centros urbanos cuestan -50% madera en Edad de los Castillos",
+                "Arqueros a pie (excepto guerrilleros) tienen +1 de alcance en Castillos y +1 en Imperial (+2 en total)",
+                "Pastores trabajan 25% más rápido"
+            ],
+            "bonificacion_equipo": "Galerías de tiro con arco funcionan 20% más rápido"
+        },
+        {
+            "civilizacion": "Búlgaros",
+            "icono": "CivIcon-Bulgaros.webp",
+            "especialidad": "Infanteria",
+            "unidad_unica": {
+                "nombre": "Konnik",
+                "icono": "Konnikicon.webp",
+                "especialidad": "Caballeria",
+                "mejora": "Konnik de Élite"
+            },
+            "tecnologias_unicas": {
+                "castillos": "Estribos",
+                "castillos_info": "La Caballería de Exploración (y subsiguientes), Jinetes y Konniks montados atacan un 33% más rápido",
+                "imperial": "Nobles Bagain",
+                "imperial_info": "La Milicia y subsiguientes obtienen + 5 de armadura"
+            },
+            "bonificaciones_civilizacion": [
+                "La línea de milicia se mejora gratis",
+                "Los centros urbanos cuestan -50% piedra",
+                "Pueden construir Kreposts (Fortalezas)",
+                "Mejoras en la Herrería y Taller de maquinaria de asedio cuestan -50% alimento"
+            ],
+            "bonificacion_equipo": "La herrería trabaja un 80% más rápido"
+        },
+        {
+            "civilizacion": "Celtas",
+            "icono": "CivIcon-Celtas.webp",
+            "especialidad": "Infantería y armas de asedio",
+            "unidad_unica": {
+                "nombre": "Invasor de pastos",
+                "icono": "Invasor_Icono-DE.webp",
+                "especialidad": "Infanteria",
+                "mejora": "Invasor de pastos de Élite"
+            },
+            "tecnologias_unicas": {
+                "castillos": "Bastión",
+                "castillos_info": "Los Castillos y torres disparan un 20% más rápido",
+                "imperial": "Furor Celta",
+                "imperial_info": "Aumenta los puntos de resistencia de las unidades del taller de maquinaria de asedio en un 40%"
+            },
+            "bonificaciones_civilizacion": [
+                "Infantería es 15% más rápida",
+                "Leñadores trabajan 15% más rápido",
+                "Armas de asedio disparan 20% más rápido",
+                "Ovejas no pasan a control enemigo si están en la LDV de una unidad celta"
+            ],
+            "bonificacion_equipo": "Taller de maquinaria de asedio trabaja 20% más rápido"
+        },
+        {
+            "civilizacion": "Chinos",
+            "icono": "CivIcon-Chinos.webp",
+            "especialidad": "Arqueros",
+            "unidad_unica": {
+                "nombre": "Chu ko nu",
+                "icono": "ChukoNu_Icono-DE.webp",
+                "especialidad": "Arquero",
+                "mejora": "Chu ko nu de Élite"
+            },
+            "tecnologias_unicas": {
+                "castillos": "Gran Muralla",
+                "castillos_info": "Aumenta los puntos de resistencia de las muros y torres en un 30%",
+                "imperial": "Cohetería",
+                "imperial_info": "Aumenta el ataque de los Chu ko nu en +2, y el de los Escorpiones en +4"
+            },
+            "bonificaciones_civilizacion": [
+                "Centros urbanos tienen + 5 LDV y habitan 10 unidades de población",
+                "Comienzan con 3 aldeanos más, pero -150 alimento, -50 madera",
+                "Tecnologías cuestan -10% (Feudal)/-15% (Castillos)/-20% (Imperial)",
+                "Buque de demolición +50% ptos. resistencia"
+            ],
+            "bonificacion_equipo": "Granjas +10% alimento"
+        },
+        {
+            "civilizacion": "Coreanos",
+            "icono": "CivIcon-Coreanos.webp",
+            "especialidad": "Defensa y Naval",
+            "unidad_unica": {
+                "nombre": "Carreta de guerra",
+                "icono": "Carreta_Guerra_Icono-DE.webp",
+                "especialidad": "Caballeria",
+                "mejora": "Carreta de guerra de Élite"
+            },
+            "unidad_unica_2": {
+                "nombre": "Barco Tortuga",
+                "icono": "Barco_Tortuga_Icono-DE.webp",
+                "especialidad": "Naval"
+            },
+            "tecnologias_unicas": {
+                "castillos": "Eupseong",
+                "castillos_info": "Aumenta el alcance en +2 de las Torres de guardia, de vigilancia y de Homenaje",
+                "imperial": "Shinkichon",
+                "imperial_info": "Aumenta el alcance de la Mangana, el Onagro y el Onagro de Asedio en +1"
+            },
+            "bonificaciones_civilizacion": [
+                "Aldeanos +3 LDV",
+                "Canteros trabajan 20% más rápido",
+                "Mejoras de torres gratis (torre de bombardeo requiere Química)",
+                "Mejoras de armadura de arqueros son gratis",
+                "Unidades militares cuentan -20% madera (excepto armas de asedio)"
+            ],
+            "bonificacion_equipo": "Alcance mínimo de mangoneles reducido a 1"
+        },
+        {
+            "civilizacion": "Cumanos",
+            "icono": "CivIcon-Cumanos.webp",
+            "especialidad": "Caballería",
+            "unidad_unica": {
+                "nombre": "Kipchak",
+                "icono": "Kipchakicon.webp",
+                "especialidad": "Arquero Caballeria",
+                "mejora": "Kipchak de Élite"
+            },
+            "tecnologias_unicas": {
+                "castillos": "Ganadería de la estepa",
+                "castillos_info": "La Caballería de Exploración y subsiguientes, Lancero estepario y Arquero a Caballo se crean un 80% más rápido",
+                "imperial": "Mercenariado Cumano",
+                "imperial_info": "Los aliados podrán entrenar hasta 10 Kipchaks gratis en sus Castillos"
+            },
+            "bonificaciones_civilizacion": [
+                "Pueden construir un segundo Centro Urbano en la Edad Feudal",
+                "Galerías de tiro con arco y Establos cuestan -100 madera.",
+                "Taller de Asedio y Ariete disponible desde la Edad Feudal; mejora de Ariete Cubierto disponible en la Edad de los Castillos",
+                "Caballería se mueve 5%/10%/15% más rápido en la Edad Feudal/Castillos/Imperial"
+            ],
+            "bonificacion_equipo": "Empalizadas tienen +33% de puntos de resistencia"
+        },
+        {
+            "civilizacion": "Dravídicos",
+            "icono": "Civ-Icon_Dravidicos.webp",
+            "especialidad": "Naval e Infantería",
+            "unidad_unica": {
+                "nombre": "Espadachín urumi",
+                "icono": "Espadachin_Urumi_Icono.webp",
+                "especialidad": "Infanteria",
+                "mejora": "Espadachín urumi de Élite"
+            },
+            "unidad_unica_2": {
+                "nombre": "Thirisadai",
+                "icono": "Thirisadai_Icono.webp",
+                "especialidad": "Naval"
+            },
+            "tecnologias_unicas": {
+                "castillos": "Cuerpos de médicos",
+                "castillos_info": "Las Unidades en elefante regeneran 20 PR por minuto",
+                "imperial": "Acero Wootz",
+                "imperial_info": "Los ataques de la infantería y la caballería ignoran la armadura"
+            },
+            "bonificaciones_civilizacion": [
+                "Reciben +200 madera cuando avanzan a la siguiente Edad",
+                "Pescadores y Pesqueros transportan +15 alimentos",
+                "Las tecnologías del Cuartel cuestan -50%",
+                "Hostigadores y Elefantes arqueros atacan un 25% más rápido"
+            ],
+            "bonificacion_equipo": "Muelles proveen +5 de población"
+        },
+        {
+            "civilizacion": "Eslavos",
+            "icono": "CivIcon-Eslavos.webp",
+            "especialidad": "Infantería y armas de asedio",
+            "unidad_unica": {
+                "nombre": "Boyardo",
+                "icono": "Boyardo-Icono-DE.webp",
+                "especialidad": "Caballeria",
+                "mejora": "Boyardo de Élite"
+            },
+            "tecnologias_unicas": {
+                "castillos": "Detinets",
+                "castillos_info": "Reemplaza el 40% del coste en piedra de castillos y Torres en madera",
+                "imperial": "Druzhina",
+                "imperial_info": "Las unidades de infantería dañarán también a unidades enemigas adyacentes"
+            },
+            "bonificaciones_civilizacion": [
+                "Granjeros trabajan 10% más rápidos",
+                "Suministros gratis",
+                "Las unidades del taller de asedio cuestan -15%"
+            ],
+            "bonificacion_equipo": "Edificios militares (excepto Castillos y Muelles) albergan +5 de población"
+        },
+        {
+            "civilizacion": "Españoles",
+            "icono": "CivIcon-Espa.webp",
+            "especialidad": "Monjes y pólvora",
+            "unidad_unica": {
+                "nombre": "Conquistador",
+                "icono": "Conquistador-Icono-DE.webp",
+                "especialidad": "Caballeria Monje",
+                "mejora": "Conquistador de Élite"
+            },
+            "unidad_unica_2": {
+                "nombre": "Misionero",
+                "icono": "Misionero_Icono-DE.webp",
+                "especialidad": "Naval"
+            },
+            "tecnologias_unicas": {
+                "castillos": "Inquisición",
+                "castillos_info": "Permite a los Monjes y Misioneros convertir más rápido",
+                "imperial": "Supremacía",
+                "imperial_info": "Mejora las habilidades de combate de los aldeanos (+6 ataque, +2/+2 armadura, +40 PR)"
+            },
+            "bonificaciones_civilizacion": [
+                "Constructores trabajan +30% más rápido (+20% para Maravillas)",
+                "Mejoras en herrería no cuestan oro",
+                "Proyectiles de galeones artillados se mueven más rápido y alcanzan a objetivos en movimiento",
+                "Artilleros manuales y cañones de asedio disparan 18% más rápido"
+            ],
+            "bonificacion_equipo": "Unidades comerciales generan +25% oro"
+        },
+        {
+            "civilizacion": "Etiopes",
+            "icono": "CivIcon-Etiopes.webp",
+            "especialidad": "Arqueros y armas de asedio",
+            "unidad_unica": {
+                "nombre": "Shotelai",
+                "icono": "Shotelai_icono-DE.webp",
+                "especialidad": "Infanteria",
+                "mejora": "Shotelai de Élite"
+            },
+            "tecnologias_unicas": {
+                "castillos": "Centralización",
+                "castillos_info": "Reduce a la mitad el tiempo de creación de los Shotelai (8sec > 4sec)",
+                "imperial": "Mecanismos de Torsión",
+                "imperial_info": "Aumenta el radio de daño en área de las unidades del Taller de maquinaria de asedio"
+            },
+            "bonificaciones_civilizacion": [
+                "Arqueros disparan 18% más rápidos",
+                "Reciben +100 alimento, + 100 oro cuando avanzan de Edad",
+                "Mejora a Piquero gratis"
+            ],
+            "bonificacion_equipo": "Torres y Puestos avanzados +3 LDV"
+        },
+        {
+            "civilizacion": "Francos",
+            "icono": "CivIcon-Francos.webp",
+            "especialidad": "Caballería",
+            "unidad_unica": {
+                "nombre": "Lanzador de hachas",
+                "icono": "Lanzador_Hachas_Icono-DE.webp",
+                "especialidad": "Infanteria",
+                "mejora": "Lanzador de hachas de Élite"
+            },
+            "tecnologias_unicas": {
+                "castillos": "Código Caballeresco",
+                "castillos_info": "Aumenta la velocidad de trabajo de los Establos en +40%",
+                "imperial": "Hacha de Arista",
+                "imperial_info": "Aumenta el alcance de los Lanzadores de Hachas en +1"
+            },
+            "bonificaciones_civilizacion": [
+                "Recolectores de bayas trabajan 15% mas rápido",
+                "Castillos cuestan -25%",
+                "Unidades de caballeria +20% ptos. Resistencia",
+                "Mejoras de granja gratis (requieren molino)"
+            ],
+            "bonificacion_equipo": "Jinetes +2 LDV"
+        },
+        {
+            "civilizacion": "Godos",
+            "icono": "CivIcon-Godos.webp",
+            "especialidad": "Infantería",
+            "unidad_unica": {
+                "nombre": "Huscarle",
+                "icono": "Huscarle_Icono-DE.webp",
+                "especialidad": "Infanteria",
+                "mejora": "Huscarle de Élite"
+            },
+            "tecnologias_unicas": {
+                "castillos": "Anarquía",
+                "castillos_info": "Permite entrenar Huscarles en los Cuarteles",
+                "imperial": "Movilización",
+                "imperial_info": "Duplica la velocidad de trabajo de los Cuarteles"
+            },
+            "bonificaciones_civilizacion": [
+                "Unidades de infantería cuestan -20% (Alta Edad Media)/-25% (Feudal)/-30% (Castillos)/-35% (Imperial)",
+                "Infantería +1/+2/+3 de ataque contra edificios en la Edad Feudal/Castillos/Imperial",
+                "Aldeanos + 5 ataque contra jabalíes y y llevan +15",
+                "+10 población máxima en Edad Imperial"
+            ],
+            "bonificacion_equipo": "Cuarteles funcionan 20% más rápido"
+        },
+        {
+            "civilizacion": "Gurjaras",
+            "icono": "Civ-Icon_Gurjaras.webp",
+            "especialidad": "Caballería y Camellos",
+            "unidad_unica": {
+                "nombre": "Lanzador Chakram",
+                "icono": "Lanzador_Chakram_Icono.webp",
+                "especialidad": "Infanteria",
+                "mejora": "Lanzador Chakram de Élite"
+            },
+            "unidad_unica_2": {
+                "nombre": "Jinete Shrivamsha",
+                "icono": "Jinete_Shrivamsha_Icono.webp",
+                "especialidad": "Caballeria",
+                "mejora": "Jinete Shrivamsha de Élite"
+            },
+            "unidad_unica_3": {
+                "nombre": "Explorador a camello",
+                "icono": "Explorador_a_Camello_Icono.webp",
+                "especialidad": "Caballeria",
+                "mejora": "Jinete a camello"
+            },
+            "tecnologias_unicas": {
+                "castillos": "Chatrias",
+                "castillos_info": "Las unidades militares cuestan -25% comida",
+                "imperial": "Guardias fronterizos",
+                "imperial_info": "Otorga al Jinete a camello y arquero en elefante +4 de armadura"
+            },
+            "bonificaciones_civilizacion": [
+                "Comienzan con 2 Arbustos de bayas",
+                "Pueden guarecer los Molinos con ganado para producir comida",
+                "Las unidades montadas hacen un +40% daño adicional",
+                "Pueden guarecer los pesqueros en los muelles"
+            ],
+            "bonificacion_equipo": "Unidades a camello y Unidades en elefante se crean un 25% más rápido"
+        },
+        {
+            "civilizacion": "Hunos",
+            "icono": "CivIcon-Hunos.webp",
+            "especialidad": "Caballería",
+            "unidad_unica": {
+                "nombre": "Tarcano",
+                "icono": "Tarcano_Icono-DE.webp",
+                "especialidad": "Caballeria",
+                "mejora": "Tarcano de Élite"
+            },
+            "tecnologias_unicas": {
+                "castillos": "Razias",
+                "castillos_info": "Permite que los Tarcanos puedan ser entrenados en el Establo",
+                "imperial": "Ateísmo",
+                "imperial_info": "Hace que las victorias por Maravillas y por Reliquias tarden 100 años más en completarse, además de reducir el coste de Espionaje y Traición en un 50%"
+            },
+            "bonificaciones_civilizacion": [
+                "No necesitan casas, pero comienzan con -100 madera",
+                "Arqueros a caballo cuestan -10% (Castillos)/-20% (Imperial)",
+                "Lanzapiedras son 35% más precisos contra unidades"
+            ],
+            "bonificacion_equipo": "Establos funcionan 20% más rápidos"
+        },
+        {
+            "civilizacion": "Incas",
+            "icono": "CivIcon-Incas.webp",
+            "especialidad": "Infantería",
+            "unidad_unica": {
+                "nombre": "Kamayuk",
+                "icono": "Kamayuk_Icono-DE.webp",
+                "especialidad": "Infanteria",
+                "mejora": "Kamayuk de Élite"
+            },
+            "unidad_unica_2": {
+                "nombre": "Hondero",
+                "icono": "Hondero_Icono-DE.webp",
+                "especialidad": "Arquero"
+            },
+            "tecnologias_unicas": {
+                "castillos": "Huaracas",
+                "castillos_info": "Se elimina el rango mínimo de los Guerrilleros, Honderos y Genitores",
+                "imperial": "Escudos de tela",
+                "imperial_info": "Los Kamayuks, Honderos y los Guerreros águila tienen +1/+2 de armadura"
+            },
+            "bonificaciones_civilizacion": [
+                "Comienzan el juego con un Explorador Águila",
+                "Comienzan con una Llama gratis",
+                "Aldeanos se benefician de las mejoras de la infantería en la herrería a partir de la Edad de los Castillos",
+                "Casas albergan 10 de población",
+                "Edificios cuestan -15% piedra"
+            ],
+            "bonificacion_equipo": "Lanceros y Hostigadores +2 LDV"
+        },
+        {
+            "civilizacion": "Indostaníes",
+            "icono": "Civ-Icon_Indostanies.webp",
+            "especialidad": "Camellos y pólvora",
+            "unidad_unica": {
+                "nombre": "Ghulam",
+                "icono": "Ghulam_Icono.webp",
+                "especialidad": "Infanteria",
+                "mejora": "Ghulam de Élite"
+            },
+            "unidad_unica_2": {
+                "nombre": "Jinete a Camello Imperial",
+                "icono": "Camello_Imperial_Icono-DE.webp",
+                "especialidad": "Caballeria",
+                "mejora": "Jinete a camello pesado"
+            },
+            "tecnologias_unicas": {
+                "castillos": "Camino del Gran Tronco",
+                "castillos_info": "Aumenta la velocidad de obtención de oro (minería, comercio y reliquias) en un +10%",
+                "imperial": "Shatagni",
+                "imperial_info": "Aumenta el alcance de los Artilleros Manuales en +1"
+            },
+            "bonificaciones_civilizacion": [
+                "Aldeanos cuestan -10%/-15%/-20%/-25% en la A.E.Media/Feudal/Castillos/Imperial",
+                "Camellos atacan un 25% más rápido",
+                "Unidades de pólvora +1/+1 de armadura anti-proyectil en la Edad de los Castillos/Imperial",
+                "Pueden construir Caravanserai en la Edad Imperial"
+            ],
+            "bonificacion_equipo": "Camellos y Caballería +2 ataque contra edificios estándares"
+        },
+        {
+            "civilizacion": "Italianos",
+            "icono": "CivIcon-Italianos.webp",
+            "especialidad": "Arqueros y Barcos",
+            "unidad_unica": {
+                "nombre": "Genovés Ballestero",
+                "icono": "Genoves_BallesteroIcono-DE.webp",
+                "especialidad": "Arquero",
+                "mejora": "Genovés Ballestero de Élite"
+            },
+            "tecnologias_unicas": {
+                "castillos": "Escudo Pavés",
+                "castillos_info": "Aumenta la armadura de los arqueros a pie en un +1/+1",
+                "imperial": "Ruta de la Seda",
+                "imperial_info": "Se reduce a la mitad el costo de las Carretas de mercancías y las Urcas mercantes"
+            },
+            "bonificaciones_civilizacion": [
+                "Tecnologías en el Muelle y de la Universidad cuestan -33%",
+                "Pesquero cuesta -15%",
+                "Avanzar de edad cuesta -15%",
+                "Unidades de pólvora cuestan -20%"
+            ],
+            "bonificacion_equipo": "Condotiero disponible en el Cuartel en la Edad Imperial"
+        },
+        {
+            "civilizacion": "Japoneses",
+            "icono": "CivIcon-Japoneses.webp",
+            "especialidad": "Infantería",
+            "unidad_unica": {
+                "nombre": "Samurái",
+                "icono": "Samurai-Icono-DE.webp",
+                "especialidad": "Infanteria",
+                "mejora": "Samurái de Élite"
+            },
+            "tecnologias_unicas": {
+                "castillos": "Yasama",
+                "castillos_info": "Hace que las torres disparen flechas adicionales",
+                "imperial": "Kataparuto",
+                "imperial_info": "Permite que los Trebuchets se armen y desarmen más rápido, además de disparar más rápido"
+            },
+            "bonificaciones_civilizacion": [
+                "Pesqueros doble ptos. resistencia; +2 AP; trabajan 5% (A.E. Media)/10% (Feudal)/15% (Castillos)/20% (Imperial) más rápido",
+                "Molino, campamentos minero/maderero cuestan -50%",
+                "Infantería ataca 33% más rápido a partir de Feudal"
+            ],
+            "bonificacion_equipo": "Galeras +50% LDV"
+        },
+        {
+            "civilizacion": "Jemeres",
+            "icono": "CivIcon-Jemeres.webp",
+            "especialidad": "Elefantes y armas de asedio",
+            "unidad_unica": {
+                "nombre": "Elefante con ballesta",
+                "icono": "Elefante_ballesta_icono-DE.webp",
+                "especialidad": "Caballeria Asedio",
+                "mejora": "Elefante con ballesta de Élite"
+            },
+            "tecnologias_unicas": {
+                "castillos": "Colmillos de Acero",
+                "castillos_info": "Le da +3 de ataque a los Elefantes de Combate",
+                "imperial": "Doble Ballesta",
+                "imperial_info": "Los Elefantes Ballesta y los Escorpiones disparan dos proyectiles en lugar de uno solo"
+            },
+            "bonificaciones_civilizacion": [
+                "Los edificios no son requeridos para avanzar de Edad",
+                "Los aldeanos pueden guarecerse en las casas",
+                "Elefante de Combate se mueven 10% más rápido",
+                "Los granjeros no necesitan edificios para dejar comida"
+            ],
+            "bonificacion_equipo": "Escorpiones tienen +1 alcance"
+        },
+        {
+            "civilizacion": "Lituanos",
+            "icono": "CivIcon-Lituanos.webp",
+            "especialidad": "Caballeria y Monjes",
+            "unidad_unica": {
+                "nombre": "Leitis",
+                "icono": "Leitisicon.webp",
+                "especialidad": "Caballeria",
+                "mejora": "Leitis de Élite"
+            },
+            "tecnologias_unicas": {
+                "castillos": "Castros bálticos",
+                "castillos_info": "Los Centros Urbanos tienen +3 de alcance",
+                "imperial": "Escudo Rectangular",
+                "imperial_info": "Los Lanceros y los Guerrilleros obtienen +2 de armadura anti-proyectil"
+            },
+            "bonificaciones_civilizacion": [
+                "Comienzan con +150 alimento",
+                "Lanceros y Guerrilleros se mueven 10% más rápido",
+                "La caballería obtiene +1 ataque por cada reliquia en el Monasterio (hasta un máximo de 4)"
+            ],
+            "bonificacion_equipo": "Monasterios trabajan 20% más rápido"
+        },
+        {
+            "civilizacion": "Magiares",
+            "icono": "CivIcon-Magiares.webp",
+            "especialidad": "Caballeria",
+            "unidad_unica": {
+                "nombre": "Huszár Magiar",
+                "icono": "Huszar_Magiar_Icono-DE.webp",
+                "especialidad": "Caballeria",
+                "mejora": "Huszár Magiar de Élite"
+            },
+            "tecnologias_unicas": {
+                "castillos": "Ejército Corviniano",
+                "castillos_info": "Elimina el costo de oro de los Huszares Magiares",
+                "imperial": "Arco Recurvo",
+                "imperial_info": "Los arqueros a caballo obtendrán +1 de alcance y de ataque"
+            },
+            "bonificaciones_civilizacion": [
+                "Forja, Fundición de Hierro y Alto Horno gratis",
+                "Caballería de Exploración cuesta -15%",
+                "Aldeanos matan animales salvajes de un golpe"
+            ],
+            "bonificacion_equipo": "Arqueros a pie +2 LDV"
+        },
+        {
+            "civilizacion": "Malayos",
+            "icono": "CivIcon-Malayos.webp",
+            "especialidad": "Naval",
+            "unidad_unica": {
+                "nombre": "Recluta con Karambit",
+                "icono": "Karambit_icono-DE.webp",
+                "especialidad": "Infanteria",
+                "mejora": "Recluta con Karambit de Élite"
+            },
+            "tecnologias_unicas": {
+                "castillos": "Talasocracia",
+                "castillos_info": "Los Muelles se convierten en Puertos, los cuales disparan flechas",
+                "imperial": "Leva en Masa",
+                "imperial_info": "La linea de Milicia dejan de costar oro y cuestan comida adicional"
+            },
+            "bonificaciones_civilizacion": [
+                "Avanzar de Edad es 66% más rápido",
+                "Trampa para peces cuestan -33% y proveen 3 veces alimento más alimento",
+                "Elefante de Combate cuesta -30%/40% en la Edad de los Castillos/Imperial"
+            ],
+            "bonificacion_equipo": "Muelles tienen el doble de LDV"
+        },
+        {
+            "civilizacion": "Malíes",
+            "icono": "CivIcon-Malies.webp",
+            "especialidad": "Infantería",
+            "unidad_unica": {
+                "nombre": "Gbeto",
+                "icono": "Gbeto_Icono-DE.webp",
+                "especialidad": "Infanteria",
+                "mejora": "Gbeto de Élite"
+            },
+            "tecnologias_unicas": {
+                "castillos": "Gran Asamblea",
+                "castillos_info": "Los centros urbanos disparan flecha sin la necesidad de guarecer aldeanos",
+                "imperial": "Farimba",
+                "imperial_info": "Otorga a la caballería +5 de ataque"
+            },
+            "bonificaciones_civilizacion": [
+                "Edificios cuestan -15% madera",
+                "Unidades del Cuartel tienen +1 (Feudal)/+2 (Castillos)/+3 (Imperial) de armadura anti proyectil",
+                "Minas de oro duran +30%"
+            ],
+            "bonificacion_equipo": "Las mejores en la Universidad son 80% más rápidas"
+        },
+        {
+            "civilizacion": "Mayas",
+            "icono": "CivIcon-Mayas.webp",
+            "especialidad": "Arqueros",
+            "unidad_unica": {
+                "nombre": "Arquero emplumado",
+                "icono": "Arquero_Plumas_Icono-DE.webp",
+                "especialidad": "Arquero",
+                "mejora": "Arquero emplumado de Élite"
+            },
+            "tecnologias_unicas": {
+                "castillos": "Jabalineros Hul'che",
+                "castillos_info": "Permite a los Hostigadores lanzar un segundo proyectil",
+                "imperial": "El Dorado",
+                "imperial_info": "Aumenta los puntos de resistencia de los Guerreros Águila en 40"
+            },
+            "bonificaciones_civilizacion": [
+                "Comienzan el juego con un Explorador Águila",
+                "Comienzan con +1 aldeano, pero -50 alimento",
+                "Recursos duran 15% más",
+                "Arqueros cuestan -10% (Feudal)/-20% (Castillos)/-30% (Imperial)"
+            ],
+            "bonificacion_equipo": "Empalizadas, murallas, portones y puertas cuestan -50%"
+        },
+        {
+            "civilizacion": "Mongoles",
+            "icono": "CivIcon-Mongoles.webp",
+            "especialidad": "Arqueros montados y Caballería de asedio",
+            "unidad_unica": {
+                "nombre": "Mangudai",
+                "icono": "Mangudai_Icono-DE.webp",
+                "especialidad": "Caballeria Arquero",
+                "mejora": "Mangudai de Élite"
+            },
+            "tecnologias_unicas": {
+                "castillos": "Nómadas",
+                "castillos_info": "Aunque tus casas sean destruidas, no pierdes la capacidad poblacional que admitían",
+                "imperial": "Instrucción Militar",
+                "imperial_info": "Permite a las unidades del Taller de maquinaria de asedio moverse un 50% más rápido"
+            },
+            "bonificaciones_civilizacion": [
+                "Arqueros a caballo disparan 25% más rápido",
+                "Caballería ligera y húsar +30% ptos. resistencia",
+                "Cazadores trabajan 40% más rápido"
+            ],
+            "bonificacion_equipo": "Caballería de exploración +2 LDV"
+        },
+        {
+            "civilizacion": "Persas",
+            "icono": "CivIcon-Persas.webp",
+            "especialidad": "Caballeria",
+            "unidad_unica": {
+                "nombre": "Elefante de guerra",
+                "icono": "ElefanteGuerra-Icono-DE.webp",
+                "especialidad": "Caballeria",
+                "mejora": "Elefante de guerra de Élite"
+            },
+            "tecnologias_unicas": {
+                "castillos": "Kamandaran",
+                "castillos_info": "Remplaza el coste de los arqueros de 25 madera, 45 oro por solamente 50 madera, convirtiéndose en una unidad barata",
+                "imperial": "Cornacas",
+                "imperial_info": "Permite a los Elefantes de Guerra moverse un 30% más rápido"
+            },
+            "bonificaciones_civilizacion": [
+                "Comienzan con + 50 alimento, +50 madera",
+                "Centro urbano y muelle tienen doble de ptos. resistencia y funcionan 10% (Feudal)/15% (Castillos)/20% (Imperial) más rápidos"
+            ],
+            "bonificacion_equipo": "Jinetes +2 ataque contra arqueros"
+        },
+        {
+            "civilizacion": "Polacos",
+            "icono": "Polacos_Icono.webp",
+            "especialidad": "Caballeria",
+            "unidad_unica": {
+                "nombre": "Martillo de guerra",
+                "icono": "Obuch_Icono.webp",
+                "especialidad": "Infanteria",
+                "mejora": "Martillo de guerra de Élite"
+            },
+            "tecnologias_unicas": {
+                "castillos": "Privilegios de Szlachta",
+                "castillos_info": "Reduce el coste en oro de Jinetes y subsiguientes en un 60%",
+                "imperial": "Legado lequítico",
+                "imperial_info": "Otorga un 33% de daño arrollador a la línea de la caballería de exploración en un radio de 0.5"
+            },
+            "bonificaciones_civilizacion": [
+                "Los Aldeanos regeneran 5/10/15/20 PR por minuto en la Alta Edad Media/Feudal/Castillos/Imperial",
+                "El Folwark reemplaza al Molino",
+                "Los canteros (minadores de piedra) generan oro además de piedra"
+            ],
+            "bonificacion_equipo": "La Caballería de exploración y subsiguientes obtienen +1 de ataque contra arqueros"
+        },
+        {
+            "civilizacion": "Portugueses",
+            "icono": "CivIcon-Portugueses.webp",
+            "especialidad": "Naval y unidades de pólvora",
+            "unidad_unica": {
+                "nombre": "Cañón de salvas",
+                "icono": "Cañon_salvas_aoe2DE.webp",
+                "especialidad": "Asedio",
+                "mejora": "Cañón de salvas de Élite"
+            },
+            "unidad_unica_2": {
+                "nombre": "Carabela",
+                "icono": "Carabela_Icono-DE.webp",
+                "especialidad": "Naval",
+                "mejora": "Carabela de Élite"
+            },
+            "tecnologias_unicas": {
+                "castillos": "Carracas",
+                "castillos_info": "Aumenta la armadura de barcos en un +1/+1",
+                "imperial": "Arcabuz",
+                "imperial_info": "Permite al Artillero Manual, Cañón de Asedio, los Galeones artillados, Torre de bombardeo y al Cañón de Salvas acertar a los objetivos en movimiento"
+            },
+            "bonificaciones_civilizacion": [
+                "Unidades cuestan -20% oro",
+                "Barcos tienen +10% RES",
+                "Tecnologías se desarrollan 30% más rápido",
+                "Factoría disponible en la Edad Imperial"
+            ],
+            "bonificacion_equipo": "Cartografía gratis desde la Alta Edad Media"
+        },
+        {
+            "civilizacion": "Romanos",
+            "icono": "CivIcon-Romanos.webp",
+            "especialidad": "Infanteria",
+            "unidad_unica": {
+                "nombre": "Centurión",
+                "icono": "Centurion-Icono.webp",
+                "especialidad": "Asedio",
+                "mejora": "Centurión de Élite"
+            },
+            "unidad_unica_2": {
+                "nombre": "Legionario",
+                "icono": "Legionario-Icono.webp",
+                "especialidad": "Infanteria"
+            },
+            "tecnologias_unicas": {
+                "castillos": "Balistas",
+                "castillos_info": "Aumenta la velocidad de ataque de los Escorpiones y de las Galeras en un 33%",
+                "imperial": "Comitatenses",
+                "imperial_info": "La línea de Milicia, línea de Jinete, y Centuriones se crean 50% más rápido y reciben +5 ataque de carga"
+            },
+            "bonificaciones_civilizacion": [
+                "Aldeanos recolectan, construyen y reparan 5% más rápido",
+                "Línea de Galera +1 de ataque",
+                "Galera de guerra +1/+1 de armadura, Galera y Dromons +2/+2 de armadura",
+                "Infantería recibe el doble de efecto de las mejoras de amradura de la Herrería",
+                "Escorpión cuesta -60% oro y se beneficia de la Balística"
+            ],
+            "bonificacion_equipo": "Línea de Escorpión alcance mínimo reducido a 1"
+        },
+        {
+            "civilizacion": "Saracenos",
+            "icono": "CivIcon-Sarracenos.webp",
+            "especialidad": "Camellos y naval",
+            "unidad_unica": {
+                "nombre": "Mameluco",
+                "icono": "Mameluco-Icono-DE.webp",
+                "especialidad": "Caballeria",
+                "mejora": "Mameluco de Élite"
+            },
+            "tecnologias_unicas": {
+                "castillos": "Fanatismo",
+                "castillos_info": "Los Camellos y Mamelucos tienen +20 puntos de resistencia",
+                "imperial": "Contrapesos",
+                "imperial_info": "Los Lanzapiedras y Manganas obtienen +15% de ataque, que se aplica igualmente a las bonificaciones de ataque"
+            },
+            "bonificaciones_civilizacion": [
+                "Mercados cuestan -75 madera",
+                "Tasa del Mercado cuesta solo 5%",
+                "Barcos de transporte doble de ptos. resistencia y +5 de capacidad",
+                "Galeras atacan 25% más rápido",
+                "Jinetes a camello +10 ptos. resistencia"
+            ],
+            "bonificacion_equipo": "Arqueros a pie +3 de ataque contra edificios"
+        },
+        {
+            "civilizacion": "Sicilianos",
+            "icono": "CivIcon-Sicilianos.webp",
+            "especialidad": "Infantería",
+            "unidad_unica": {
+                "nombre": "Serjeant",
+                "icono": "Sargento_Icono.webp",
+                "especialidad": "Infanteria",
+                "mejora": "Serjeant de Élite"
+            },
+            "tecnologias_unicas": {
+                "castillos": "Primera Cruzada",
+                "castillos_info": "Cada Centro urbano (maximo 5) genera un grupo de 5 Serjeants; las unidades son mas resistentes a la conversión",
+                "imperial": "Cota de malla",
+                "imperial_info": "Otorga a los Jinetes y Caballeros +1 de armadura y +2 de armadura anti-proyectil"
+            },
+            "bonificaciones_civilizacion": [
+                "Comienzan el juego con +100 piedra",
+                "Castillos y Centros Urbanos se construyen un 100% más rápido",
+                "Unidades militares terrestres reciben 33% menos de daño adicional",
+                "Las mejoras de las Granjas dan 100% adicional de comida",
+                "Pueden construir Torre de homenaje en la Edad Feudal"
+            ],
+            "bonificacion_equipo": "Naves de transporte obtienen +5 LDV y cuestan -50%"
+        },
+        {
+            "civilizacion": "Tártaros",
+            "icono": "CivIcon-Tataros.webp",
+            "especialidad": "Arqueros a caballo",
+            "unidad_unica": {
+                "nombre": "Keshik",
+                "icono": "Keshikicon.webp",
+                "especialidad": "Caballería",
+                "mejora": "Keshik de Élite"
+            },
+            "unidad_unica_2": {
+                "nombre": "Camello Llameante",
+                "icono": "Camello_llameante_icono.webp",
+                "especialidad": "Unidad suicida"
+            },
+            "tecnologias_unicas": {
+                "castillos": "Armadura de seda",
+                "castillos_info": "Otorga a la línea de la Caballería de Exploración, al Arquero a Caballo, al Lancero de la Estepa, al Escaramuzador Zenete y al Kipchak, +1 de armadura anti-proyectil",
+                "imperial": "Tácticas de asedio timúridas",
+                "imperial_info": "Los Lanzapiedras ganan +2 de alcance y se desbloquean a los Camellos Llameantes en el Castillo"
+            },
+            "bonificaciones_civilizacion": [
+                "Las ovejas contienen +50% alimento",
+                "Las unidades hacen +50% de daño por elevación (+25% es daño por elevación regular)",
+                "Obtienen gratis Dactilera y Tácticas de los partos",
+                "Cada Centro Urbano genera 2 ovejas"
+            ],
+            "bonificacion_equipo": "Arqueros a caballo +2 LDV"
+        },
+        {
+            "civilizacion": "Teutones",
+            "icono": "CivIcon-Teutones.webp",
+            "especialidad": "Infantería",
+            "unidad_unica": {
+                "nombre": "Caballero de la Orden Teutónica",
+                "icono": "Caballero_Orden_Teutonica_Icono-DE.webp",
+                "especialidad": "Infanteria",
+                "mejora": "Caballero de la Orden Teutónica de Élite"
+            },
+            "tecnologias_unicas": {
+                "castillos": "Blindaje",
+                "castillos_info": "Las armas de asedio obtendrán la armadura cuerpo a cuerpo",
+                "imperial": "Almenas",
+                "imperial_info": "Los Castillos tienen +3 de alcance y las unidades de infantería guarecidas ya sea en Torres, Castillos o Centros Urbanos disparan flechas"
+            },
+            "bonificaciones_civilizacion": [
+                "Centros urbanos guardecen +10 unidades, pueden disparar +5 flechas",
+                "Torres guardecen +5 unidades, pueden disparar +4 flechas",
+                "Monjes sanan 2 veces más lejos",
+                "Matacanes gratis",
+                "Granjas cuestan -40%",
+                "Unidades de Cuartel y Establo reciben +1/+2 armadura cuerpo a cuerpo en Edad de los Castillos/Imperial"
+            ],
+            "bonificacion_equipo": "Unidades son más resistentes a la conversión"
+        },
+        {
+            "civilizacion": "Turcos",
+            "icono": "CivIcon-Turcos.webp",
+            "especialidad": "Polvora",
+            "unidad_unica": {
+                "nombre": "Jenízaro",
+                "icono": "Jenizaro_Icono-DE.webp",
+                "especialidad": "Polvora",
+                "mejora": "Jenízaro de Élite"
+            },
+            "tecnologias_unicas": {
+                "castillos": "Sipahi",
+                "castillos_info": "Aumenta los puntos de resistencia de los Arqueros a caballo y Genitores en un 20%",
+                "imperial": "Artillería",
+                "imperial_info": "Las Torres de Bombardeo, los Cañones de Asedio y los Galeones artillados tienen +2 de alcance"
+            },
+            "bonificaciones_civilizacion": [
+                "CUnidades de pólvora +25% ptos. resistencia y tecnologías de polvora cuestan -50%",
+                "Química gratis",
+                "Mineros de oro trabajan 20% más rápido",
+                "Mejoras de caballeria ligera y húsar gratis"
+            ],
+            "bonificacion_equipo": "Unidades de pólvora son creadas 25% más rápido"
+        },
+        {
+            "civilizacion": "Vietnamitas",
+            "icono": "CivIcon-Vietnamitas.webp",
+            "especialidad": "Arqueros",
+            "unidad_unica": {
+                "nombre": "Arquero de Ratán",
+                "icono": "Arquero_Ratan_icono-DE.webp",
+                "especialidad": "Arquero",
+                "mejora": "Arquero de Ratán de Élite"
+            },
+            "tecnologias_unicas": {
+                "castillos": "Chatras",
+                "castillos_info": "Le da +50 puntos de resistencia a los Elefantes de Combate",
+                "imperial": "Papel Moneda",
+                "imperial_info": "Ademas de madera, los leñadores generan oro gradualmente"
+            },
+            "bonificaciones_civilizacion": [
+                "Posiciones enemigas reveladas desde el inicio de partida",
+                "Mejoras económicas no cuestan madera",
+                "Unidades de la Galería de tiro con arco tienen +20% RES",
+                "Leva gratis"
+            ],
+            "bonificacion_equipo": "Guerrillero Imperial disponible en la Galería de tiro con arco en la Edad Imperial"
+        },
+        {
+            "civilizacion": "Vikingos",
+            "icono": "CivIcon-Vikingos.webp",
+            "especialidad": "Infantería y Naval",
+            "unidad_unica": {
+                "nombre": "Berserker",
+                "icono": "Berserk_Icono-DE.webp",
+                "especialidad": "Infanteria",
+                "mejora": "Berserker de Élite"
+            },
+            "unidad_unica_2": {
+                "nombre": "Drakkar",
+                "icono": "Barco_Dragon_Icono-DE.webp",
+                "especialidad": "Naval",
+                "mejora": "Drakkar de Élite"
+            },
+            "tecnologias_unicas": {
+                "castillos": "Hérsires",
+                "castillos_info": "La infantería obtiene una bonificación de ataque de +5 contra la caballería y de +4 contra unidades a camello",
+                "imperial": "Trance Frenético",
+                "imperial_info": "Permite a los Berserkers regenerarse al doble de la velocidad (de 20 PR por minuto a 40 PR por minuto)"
+            },
+            "bonificaciones_civilizacion": [
+                "Barcos de Guerra cuestan -15% (Feudal)/-15% (Castillos)/-20% (Imperial)",
+                "Carretilla y carro de manos gratis",
+                "Unidades de Infantería +20 ptos. resistencia a partir de la Edad Feudal"
+            ],
+            "bonificacion_equipo": "Muelles cuestan -15%"
+        }
+    ]
+}
