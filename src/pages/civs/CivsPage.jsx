@@ -11,9 +11,9 @@ const CivsPage = () => {
   const subtitle = "Informacion sobre las Civilizaciones"
   
   return (
-    <div className="p-8">
-      <h1 className="flex justify-center">{title}</h1>
-      <p className="flex justify-center pb-8">{subtitle}</p>
+    <div className="p-8 bg-yellow-50">
+      {/* <h1 className="flex justify-center">{title}</h1>
+      <p className="flex justify-center pb-8">{subtitle}</p> */}
       
       <Civs civsResponse={civsResponse} />
     </div>

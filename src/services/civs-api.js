@@ -9,8 +9,8 @@ export const getCivs = (quantity = DB.civs.length) => {
 }
 
 export const getCiv = ( civilizacion ) => {
-  const { civs } = DB;
-  const civ = civs.find( civ => civ.civilizacion.toString() === civilizacion.toString() ) || civs[0]
+    const { civs } = DB;
+    const civ = civs.find( civ => civ.civilizacion.toString() === civilizacion.toString() ) || civs[0]
   return civAdapter( civ )
 }
 

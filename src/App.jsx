@@ -5,11 +5,13 @@ import {Routes, Route} from 'react-router-dom'
 function App() { 
 
   return (
-    <>       
+    <>
+      <div className="drop-shadow-lg">
+        <h1 className="flex justify-center bg-orange-600 text-neutral-100 py-12 text-4xl font-bold">Age of Empires II DE</h1>       
+      </div>
       <Routes>
-        <Route path='/' element={<h1 className="flex justify-center text-gray-800 py-12 text-4xl font-bold">AOE Info</h1>}  />
-        <Route path='/civs' element={<CivsPage />}  />
-        <Route path='/civs/:civilizacion' element={<CivsDetail/>}  />
+        <Route path='/' element={<CivsPage />}  />
+        <Route path='/:civilizacion' element={<CivsDetail/>}  />        
       </Routes>      
     </>
   )

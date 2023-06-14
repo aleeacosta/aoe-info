@@ -28,7 +28,7 @@
         {
             "civilizacion": "Bengalíes",
             "icono": "CivIcon_Bengalies.webp",
-            "especialidad": "Elefantes y Naval",
+            "especialidad": "Elefantes y naval",
             "unidad_unica": {
                 "nombre": "Ratha",
                 "icono": "Ratha_Icono.webp",
@@ -52,7 +52,7 @@
         {
             "civilizacion": "Bereberes",
             "icono": "CivIcon-Berberes.webp",
-            "especialidad": "Camellos y barcos",
+            "especialidad": "Camellos y naval",
             "unidad_unica": {
                 "nombre": "Camello Arquero",
                 "icono": "CamelloArquero_Icono-DE.webp",
@@ -74,7 +74,7 @@
         {
             "civilizacion": "Birmanos",
             "icono": "CivIcon-Birmanos.webp",
-            "especialidad": "Monjes y Elefantes",
+            "especialidad": "Monjes y elefantes",
             "unidad_unica": {
                 "nombre": "Arambai",
                 "icono": "Arambai_Icono-DE.webp",
@@ -123,7 +123,7 @@
         {
             "civilizacion": "Bohemios",
             "icono": "Bohemios_Icono.webp",
-            "especialidad": "Unidades de pólvora y Monjes",
+            "especialidad": "Pólvora y monjes",
             "unidad_unica": {
                 "nombre": "Carro de guerra husita",
                 "icono": "Carreta_Husita_Icono.webp",
@@ -229,7 +229,7 @@
         {
             "civilizacion": "Celtas",
             "icono": "CivIcon-Celtas.webp",
-            "especialidad": "Infantería y armas de asedio",
+            "especialidad": "Infantería y asedio",
             "unidad_unica": {
                 "nombre": "Invasor de pastos",
                 "icono": "Invasor_Icono-DE.webp",
@@ -277,7 +277,7 @@
         {
             "civilizacion": "Coreanos",
             "icono": "CivIcon-Coreanos.webp",
-            "especialidad": "Defensa y Naval",
+            "especialidad": "Defensa y naval",
             "unidad_unica": {
                 "nombre": "Carreta de guerra",
                 "icono": "Carreta_Guerra_Icono-DE.webp",
@@ -360,7 +360,7 @@
         {
             "civilizacion": "Eslavos",
             "icono": "CivIcon-Eslavos.webp",
-            "especialidad": "Infantería y armas de asedio",
+            "especialidad": "Infantería y asedio",
             "unidad_unica": {
                 "nombre": "Boyardo",
                 "icono": "Boyardo-Icono-DE.webp",
@@ -412,7 +412,7 @@
         {
             "civilizacion": "Etiopes",
             "icono": "CivIcon-Etiopes.webp",
-            "especialidad": "Arqueros y armas de asedio",
+            "especialidad": "Arqueros y asedio",
             "unidad_unica": {
                 "nombre": "Shotelai",
                 "icono": "Shotelai_icono-DE.webp",
@@ -483,7 +483,7 @@
         {
             "civilizacion": "Gurjaras",
             "icono": "Civ-Icon_Gurjaras.webp",
-            "especialidad": "Caballería y Camellos",
+            "especialidad": "Caballería y camellos",
             "unidad_unica": {
                 "nombre": "Lanzador Chakram",
                 "icono": "Lanzador_Chakram_Icono.webp",
@@ -602,7 +602,7 @@
         {
             "civilizacion": "Italianos",
             "icono": "CivIcon-Italianos.webp",
-            "especialidad": "Arqueros y Barcos",
+            "especialidad": "Arqueros y naval",
             "unidad_unica": {
                 "nombre": "Genovés Ballestero",
                 "icono": "Genoves_BallesteroIcono-DE.webp",
@@ -649,7 +649,7 @@
         {
             "civilizacion": "Jemeres",
             "icono": "CivIcon-Jemeres.webp",
-            "especialidad": "Elefantes y armas de asedio",
+            "especialidad": "Elefantes y asedio",
             "unidad_unica": {
                 "nombre": "Elefante con ballesta",
                 "icono": "Elefante_ballesta_icono-DE.webp",
@@ -673,7 +673,7 @@
         {
             "civilizacion": "Lituanos",
             "icono": "CivIcon-Lituanos.webp",
-            "especialidad": "Caballeria y Monjes",
+            "especialidad": "Caballeria y monjes",
             "unidad_unica": {
                 "nombre": "Leitis",
                 "icono": "Leitisicon.webp",
@@ -789,7 +789,7 @@
         {
             "civilizacion": "Mongoles",
             "icono": "CivIcon-Mongoles.webp",
-            "especialidad": "Arqueros montados y Caballería de asedio",
+            "especialidad": "Arqueros a caballo",
             "unidad_unica": {
                 "nombre": "Mangudai",
                 "icono": "Mangudai_Icono-DE.webp",
@@ -857,7 +857,7 @@
         {
             "civilizacion": "Portugueses",
             "icono": "CivIcon-Portugueses.webp",
-            "especialidad": "Naval y unidades de pólvora",
+            "especialidad": "Naval y pólvora",
             "unidad_unica": {
                 "nombre": "Cañón de salvas",
                 "icono": "Cañon_salvas_aoe2DE.webp",
@@ -1022,11 +1022,11 @@
         {
             "civilizacion": "Turcos",
             "icono": "CivIcon-Turcos.webp",
-            "especialidad": "Polvora",
+            "especialidad": "Pólvora",
             "unidad_unica": {
                 "nombre": "Jenízaro",
                 "icono": "Jenizaro_Icono-DE.webp",
-                "especialidad": "Polvora",
+                "especialidad": "pólvora",
                 "mejora": "Jenízaro de Élite"
             },
             "tecnologias_unicas": {
@@ -1036,7 +1036,7 @@
                 "imperial_info": "Las Torres de Bombardeo, los Cañones de Asedio y los Galeones artillados tienen +2 de alcance"
             },
             "bonificaciones_civilizacion": [
-                "CUnidades de pólvora +25% ptos. resistencia y tecnologías de polvora cuestan -50%",
+                "CUnidades de pólvora +25% ptos. resistencia y tecnologías de pólvora cuestan -50%",
                 "Química gratis",
                 "Mineros de oro trabajan 20% más rápido",
                 "Mejoras de caballeria ligera y húsar gratis"
@@ -1070,7 +1070,7 @@
         {
             "civilizacion": "Vikingos",
             "icono": "CivIcon-Vikingos.webp",
-            "especialidad": "Infantería y Naval",
+            "especialidad": "Infantería y naval",
             "unidad_unica": {
                 "nombre": "Berserker",
                 "icono": "Berserk_Icono-DE.webp",
