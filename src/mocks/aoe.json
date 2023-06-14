@@ -4,12 +4,14 @@
             "civilizacion": "Aztecas",
             "icono": "CivIcon-Aztecas.webp",
             "especialidad": "Infantería y monjes",
-            "unidad_unica": {
-                "nombre": "Guerrero Jaguar",
-                "icono": "Guerrero_Jaguar_Icono-DE.webp",
-                "especialidad": "Infanteria",
-                "mejora": "Guerrero Jaguar de Élite"
-            },
+            "unidad_unica": [
+                {
+                    "nombre": "Guerrero Jaguar",
+                    "icono": "Guerrero_Jaguar_Icono-DE.webp",
+                    "especialidad": "Infanteria",
+                    "mejora": "Guerrero Jaguar de Élite"
+                }
+            ],
             "tecnologias_unicas": {
                 "castillos": "Átlatl",
                 "castillos_info": "El ataque y el alcance de los Guerrilleros y Genitores aumenta en +1",
@@ -29,12 +31,14 @@
             "civilizacion": "Bengalíes",
             "icono": "CivIcon_Bengalies.webp",
             "especialidad": "Elefantes y naval",
-            "unidad_unica": {
-                "nombre": "Ratha",
-                "icono": "Ratha_Icono.webp",
-                "especialidad": "Arquero Caballeria",
-                "mejora": "Ratha de Élite"
-            },
+            "unidad_unica": [
+                {
+                    "nombre": "Ratha",
+                    "icono": "Ratha_Icono.webp",
+                    "especialidad": "Arquero Caballeria",
+                    "mejora": "Ratha de Élite"
+                }
+            ],
             "tecnologias_unicas": {
                 "castillos": "Paiks",
                 "castillos_info": "Aumenta la velocidad de ataque de los Rathas y de las Unidades en elefante en un 33%",
@@ -53,12 +57,14 @@
             "civilizacion": "Bereberes",
             "icono": "CivIcon-Berberes.webp",
             "especialidad": "Camellos y naval",
-            "unidad_unica": {
-                "nombre": "Camello Arquero",
-                "icono": "CamelloArquero_Icono-DE.webp",
-                "especialidad": "Arquero Caballeria",
-                "mejora": "Camello Arquero de Élite"
-            },
+            "unidad_unica": [
+                {
+                    "nombre": "Camello Arquero",
+                    "icono": "CamelloArquero_Icono-DE.webp",
+                    "especialidad": "Arquero Caballeria",
+                    "mejora": "Camello Arquero de Élite"
+                }
+            ],
             "tecnologias_unicas": {
                 "castillos": "Alcazabas",
                 "castillos_info": "Aumenta la velocidad de trabajo de todos Castillos del equipo en un 25%",
@@ -75,12 +81,14 @@
             "civilizacion": "Birmanos",
             "icono": "CivIcon-Birmanos.webp",
             "especialidad": "Monjes y elefantes",
-            "unidad_unica": {
-                "nombre": "Arambai",
-                "icono": "Arambai_Icono-DE.webp",
-                "especialidad": "Arquero Caballeria",
-                "mejora": "Arambai de Élite"
-            },
+            "unidad_unica": [
+                {
+                    "nombre": "Arambai",
+                    "icono": "Arambai_Icono-DE.webp",
+                    "especialidad": "Arquero Caballeria",
+                    "mejora": "Arambai de Élite"
+                }
+            ],
             "tecnologias_unicas": {
                 "castillos": "Howdah",
                 "castillos_info": "Le da +1/+2 de armadura a los Elefantes de Combate",
@@ -99,12 +107,14 @@
             "civilizacion": "Bizantinos",
             "icono": "CivIcon-Bizantinos.webp",
             "especialidad": "Defensa",
-            "unidad_unica": {
-                "nombre": "Catafracta",
-                "icono": "Catafacta-Icono-DE.webp",
-                "especialidad": "Caballeria",
-                "mejora": "Catafracta de Élite"
-            },
+            "unidad_unica": [
+                {
+                    "nombre": "Catafracta",
+                    "icono": "Catafacta-Icono-DE.webp",
+                    "especialidad": "Caballeria",
+                    "mejora": "Catafracta de Élite"
+                }
+            ],
             "tecnologias_unicas": {
                 "castillos": "Fuego Griego",
                 "castillos_info": "Aumenta el alcance de los Brulotes en +1",
@@ -124,17 +134,20 @@
             "civilizacion": "Bohemios",
             "icono": "Bohemios_Icono.webp",
             "especialidad": "Pólvora y monjes",
-            "unidad_unica": {
-                "nombre": "Carro de guerra husita",
-                "icono": "Carreta_Husita_Icono.webp",
-                "especialidad": "Asedio",
-                "mejora": "Carro de guerra husita de Élite"
-            },
-            "unidad_unica_2": {
-                "nombre": "Obús",
-                "icono": "Houfnice_Icono.webp",
-                "especialidad": "Asedio"
-            },
+            "unidad_unica": [
+                {
+                    "nombre": "Carro de guerra husita",
+                    "icono": "Carreta_Husita_Icono.webp",
+                    "especialidad": "Asedio",
+                    "mejora": "Carro de guerra husita de Élite"
+                },
+                {
+                    "nombre": "Obús",
+                    "icono": "Houfnice_Icono.webp",
+                    "especialidad": "Asedio",
+                    "mejora": "Unidad no mejorable"
+                }
+            ],
             "tecnologias_unicas": {
                 "castillos": "Táctica de fuerte de carretas",
                 "castillos_info": "Las unidades de pólvora (Artillero Manual, Cañón de asedio, Houfnice, Galeón artillado y Carreta Husita) se mueven un 15% más rápido",
@@ -154,17 +167,20 @@
             "civilizacion": "Borgoñones",
             "icono": "CivIcon-Borgo.webp",
             "especialidad": "Caballería",
-            "unidad_unica": {
-                "nombre": "Coustillier",
-                "icono": "Coustillier_Icono.webp",
-                "especialidad": "Caballeria",
-                "mejora": "Coustillier de Élite"
-            },
-            "unidad_unica_2": {
-                "nombre": "Milicia Flamenca",
-                "icono": "Milicia_Flamenca_Icono.webp",
-                "especialidad": "Infanteria"
-            },
+            "unidad_unica": [
+                {
+                    "nombre": "Coustillier",
+                    "icono": "Coustillier_Icono.webp",
+                    "especialidad": "Caballeria",
+                    "mejora": "Coustillier de Élite"
+                },
+                {
+                    "nombre": "Milicia Flamenca",
+                    "icono": "Milicia_Flamenca_Icono.webp",
+                    "especialidad": "Infanteria",
+                    "mejora": "Unidad no mejorable"
+                }
+            ],
             "tecnologias_unicas": {
                 "castillos": "Viñedos de Borgoña",
                 "castillos_info": "Ahora intercambia alimento por oro en un ratio de 2:1",
@@ -183,12 +199,14 @@
             "civilizacion": "Britanos",
             "icono": "CivIcon-Ingleses.webp",
             "especialidad": "Arqueros",
-            "unidad_unica": {
-                "nombre": "Arquero de tiro largo",
-                "icono": "Arquero_Tiro_Largo_Icono-DE.webp",
-                "especialidad": "Arquero",
-                "mejora": "Arquero de tiro largo de Élite"
-            },
+            "unidad_unica": [
+                {
+                    "nombre": "Arquero de tiro largo",
+                    "icono": "Arquero_Tiro_Largo_Icono-DE.webp",
+                    "especialidad": "Arquero",
+                    "mejora": "Arquero de tiro largo de Élite"
+                }
+            ],
             "tecnologias_unicas": {
                 "castillos": "Voluntarios de Caballería",
                 "castillos_info": "Aumenta el alcance de los arqueros a pie en +1 y aumenta el ataque de las Torres en +2",
@@ -206,12 +224,14 @@
             "civilizacion": "Búlgaros",
             "icono": "CivIcon-Bulgaros.webp",
             "especialidad": "Infanteria",
-            "unidad_unica": {
-                "nombre": "Konnik",
-                "icono": "Konnikicon.webp",
-                "especialidad": "Caballeria",
-                "mejora": "Konnik de Élite"
-            },
+            "unidad_unica": [
+                {
+                    "nombre": "Konnik",
+                    "icono": "Konnikicon.webp",
+                    "especialidad": "Caballeria",
+                    "mejora": "Konnik de Élite"
+                }
+            ],
             "tecnologias_unicas": {
                 "castillos": "Estribos",
                 "castillos_info": "La Caballería de Exploración (y subsiguientes), Jinetes y Konniks montados atacan un 33% más rápido",
@@ -230,12 +250,14 @@
             "civilizacion": "Celtas",
             "icono": "CivIcon-Celtas.webp",
             "especialidad": "Infantería y asedio",
-            "unidad_unica": {
-                "nombre": "Invasor de pastos",
-                "icono": "Invasor_Icono-DE.webp",
-                "especialidad": "Infanteria",
-                "mejora": "Invasor de pastos de Élite"
-            },
+            "unidad_unica": [
+                {
+                    "nombre": "Invasor de pastos",
+                    "icono": "Invasor_Icono-DE.webp",
+                    "especialidad": "Infanteria",
+                    "mejora": "Invasor de pastos de Élite"
+                }
+            ],
             "tecnologias_unicas": {
                 "castillos": "Bastión",
                 "castillos_info": "Los Castillos y torres disparan un 20% más rápido",
@@ -254,12 +276,14 @@
             "civilizacion": "Chinos",
             "icono": "CivIcon-Chinos.webp",
             "especialidad": "Arqueros",
-            "unidad_unica": {
-                "nombre": "Chu ko nu",
-                "icono": "ChukoNu_Icono-DE.webp",
-                "especialidad": "Arquero",
-                "mejora": "Chu ko nu de Élite"
-            },
+            "unidad_unica": [
+                {
+                    "nombre": "Chu ko nu",
+                    "icono": "ChukoNu_Icono-DE.webp",
+                    "especialidad": "Arquero",
+                    "mejora": "Chu ko nu de Élite"
+                }
+            ],
             "tecnologias_unicas": {
                 "castillos": "Gran Muralla",
                 "castillos_info": "Aumenta los puntos de resistencia de las muros y torres en un 30%",
@@ -278,17 +302,20 @@
             "civilizacion": "Coreanos",
             "icono": "CivIcon-Coreanos.webp",
             "especialidad": "Defensa y naval",
-            "unidad_unica": {
-                "nombre": "Carreta de guerra",
-                "icono": "Carreta_Guerra_Icono-DE.webp",
-                "especialidad": "Caballeria",
-                "mejora": "Carreta de guerra de Élite"
-            },
-            "unidad_unica_2": {
-                "nombre": "Barco Tortuga",
-                "icono": "Barco_Tortuga_Icono-DE.webp",
-                "especialidad": "Naval"
-            },
+            "unidad_unica": [
+                {
+                    "nombre": "Carreta de guerra",
+                    "icono": "Carreta_Guerra_Icono-DE.webp",
+                    "especialidad": "Caballeria",
+                    "mejora": "Carreta de guerra de Élite"
+                },
+                {
+                    "nombre": "Barco Tortuga",
+                    "icono": "Barco_Tortuga_Icono-DE.webp",
+                    "especialidad": "Naval",
+                    "mejora": "Unidad no mejorable"
+                }
+            ],
             "tecnologias_unicas": {
                 "castillos": "Eupseong",
                 "castillos_info": "Aumenta el alcance en +2 de las Torres de guardia, de vigilancia y de Homenaje",
@@ -308,12 +335,14 @@
             "civilizacion": "Cumanos",
             "icono": "CivIcon-Cumanos.webp",
             "especialidad": "Caballería",
-            "unidad_unica": {
-                "nombre": "Kipchak",
-                "icono": "Kipchakicon.webp",
-                "especialidad": "Arquero Caballeria",
-                "mejora": "Kipchak de Élite"
-            },
+            "unidad_unica": [
+                {
+                    "nombre": "Kipchak",
+                    "icono": "Kipchakicon.webp",
+                    "especialidad": "Arquero Caballeria",
+                    "mejora": "Kipchak de Élite"
+                }
+            ],
             "tecnologias_unicas": {
                 "castillos": "Ganadería de la estepa",
                 "castillos_info": "La Caballería de Exploración y subsiguientes, Lancero estepario y Arquero a Caballo se crean un 80% más rápido",
@@ -332,17 +361,20 @@
             "civilizacion": "Dravídicos",
             "icono": "Civ-Icon_Dravidicos.webp",
             "especialidad": "Naval e Infantería",
-            "unidad_unica": {
-                "nombre": "Espadachín urumi",
-                "icono": "Espadachin_Urumi_Icono.webp",
-                "especialidad": "Infanteria",
-                "mejora": "Espadachín urumi de Élite"
-            },
-            "unidad_unica_2": {
-                "nombre": "Thirisadai",
-                "icono": "Thirisadai_Icono.webp",
-                "especialidad": "Naval"
-            },
+            "unidad_unica": [
+                {
+                    "nombre": "Espadachín urumi",
+                    "icono": "Espadachin_Urumi_Icono.webp",
+                    "especialidad": "Infanteria",
+                    "mejora": "Espadachín urumi de Élite"
+                },
+                {
+                    "nombre": "Thirisadai",
+                    "icono": "Thirisadai_Icono.webp",
+                    "especialidad": "Naval",
+                    "mejora": "Unidad no mejorable"
+                }
+            ],
             "tecnologias_unicas": {
                 "castillos": "Cuerpos de médicos",
                 "castillos_info": "Las Unidades en elefante regeneran 20 PR por minuto",
@@ -361,12 +393,14 @@
             "civilizacion": "Eslavos",
             "icono": "CivIcon-Eslavos.webp",
             "especialidad": "Infantería y asedio",
-            "unidad_unica": {
-                "nombre": "Boyardo",
-                "icono": "Boyardo-Icono-DE.webp",
-                "especialidad": "Caballeria",
-                "mejora": "Boyardo de Élite"
-            },
+            "unidad_unica": [
+                {
+                    "nombre": "Boyardo",
+                    "icono": "Boyardo-Icono-DE.webp",
+                    "especialidad": "Caballeria",
+                    "mejora": "Boyardo de Élite"
+                }
+            ],
             "tecnologias_unicas": {
                 "castillos": "Detinets",
                 "castillos_info": "Reemplaza el 40% del coste en piedra de castillos y Torres en madera",
@@ -384,17 +418,20 @@
             "civilizacion": "Españoles",
             "icono": "CivIcon-Espa.webp",
             "especialidad": "Monjes y pólvora",
-            "unidad_unica": {
-                "nombre": "Conquistador",
-                "icono": "Conquistador-Icono-DE.webp",
-                "especialidad": "Caballeria Monje",
-                "mejora": "Conquistador de Élite"
-            },
-            "unidad_unica_2": {
-                "nombre": "Misionero",
-                "icono": "Misionero_Icono-DE.webp",
-                "especialidad": "Naval"
-            },
+            "unidad_unica": [
+                {
+                    "nombre": "Conquistador",
+                    "icono": "Conquistador-Icono-DE.webp",
+                    "especialidad": "Caballeria Monje",
+                    "mejora": "Conquistador de Élite"
+                },
+                {
+                    "nombre": "Misionero",
+                    "icono": "Misionero_Icono-DE.webp",
+                    "especialidad": "Naval",
+                    "mejora": "Unidad no mejorable"
+                }
+            ],
             "tecnologias_unicas": {
                 "castillos": "Inquisición",
                 "castillos_info": "Permite a los Monjes y Misioneros convertir más rápido",
@@ -413,12 +450,14 @@
             "civilizacion": "Etiopes",
             "icono": "CivIcon-Etiopes.webp",
             "especialidad": "Arqueros y asedio",
-            "unidad_unica": {
-                "nombre": "Shotelai",
-                "icono": "Shotelai_icono-DE.webp",
-                "especialidad": "Infanteria",
-                "mejora": "Shotelai de Élite"
-            },
+            "unidad_unica": [
+                {
+                    "nombre": "Shotelai",
+                    "icono": "Shotelai_icono-DE.webp",
+                    "especialidad": "Infanteria",
+                    "mejora": "Shotelai de Élite"
+                }
+            ],
             "tecnologias_unicas": {
                 "castillos": "Centralización",
                 "castillos_info": "Reduce a la mitad el tiempo de creación de los Shotelai (8sec > 4sec)",
@@ -436,12 +475,14 @@
             "civilizacion": "Francos",
             "icono": "CivIcon-Francos.webp",
             "especialidad": "Caballería",
-            "unidad_unica": {
-                "nombre": "Lanzador de hachas",
-                "icono": "Lanzador_Hachas_Icono-DE.webp",
-                "especialidad": "Infanteria",
-                "mejora": "Lanzador de hachas de Élite"
-            },
+            "unidad_unica": [
+                {
+                    "nombre": "Lanzador de hachas",
+                    "icono": "Lanzador_Hachas_Icono-DE.webp",
+                    "especialidad": "Infanteria",
+                    "mejora": "Lanzador de hachas de Élite"
+                }
+            ],
             "tecnologias_unicas": {
                 "castillos": "Código Caballeresco",
                 "castillos_info": "Aumenta la velocidad de trabajo de los Establos en +40%",
@@ -460,12 +501,14 @@
             "civilizacion": "Godos",
             "icono": "CivIcon-Godos.webp",
             "especialidad": "Infantería",
-            "unidad_unica": {
-                "nombre": "Huscarle",
-                "icono": "Huscarle_Icono-DE.webp",
-                "especialidad": "Infanteria",
-                "mejora": "Huscarle de Élite"
-            },
+            "unidad_unica": [
+                {
+                    "nombre": "Huscarle",
+                    "icono": "Huscarle_Icono-DE.webp",
+                    "especialidad": "Infanteria",
+                    "mejora": "Huscarle de Élite"
+                }
+            ],
             "tecnologias_unicas": {
                 "castillos": "Anarquía",
                 "castillos_info": "Permite entrenar Huscarles en los Cuarteles",
@@ -484,24 +527,26 @@
             "civilizacion": "Gurjaras",
             "icono": "Civ-Icon_Gurjaras.webp",
             "especialidad": "Caballería y camellos",
-            "unidad_unica": {
-                "nombre": "Lanzador Chakram",
-                "icono": "Lanzador_Chakram_Icono.webp",
-                "especialidad": "Infanteria",
-                "mejora": "Lanzador Chakram de Élite"
-            },
-            "unidad_unica_2": {
-                "nombre": "Jinete Shrivamsha",
-                "icono": "Jinete_Shrivamsha_Icono.webp",
-                "especialidad": "Caballeria",
-                "mejora": "Jinete Shrivamsha de Élite"
-            },
-            "unidad_unica_3": {
-                "nombre": "Explorador a camello",
-                "icono": "Explorador_a_Camello_Icono.webp",
-                "especialidad": "Caballeria",
-                "mejora": "Jinete a camello"
-            },
+            "unidad_unica": [
+                {
+                    "nombre": "Lanzador Chakram",
+                    "icono": "Lanzador_Chakram_Icono.webp",
+                    "especialidad": "Infanteria",
+                    "mejora": "Lanzador Chakram de Élite"
+                },
+                {
+                    "nombre": "Jinete Shrivamsha",
+                    "icono": "Jinete_Shrivamsha_Icono.webp",
+                    "especialidad": "Caballeria",
+                    "mejora": "Jinete Shrivamsha de Élite"
+                },
+                {
+                    "nombre": "Explorador a camello",
+                    "icono": "Explorador_a_Camello_Icono.webp",
+                    "especialidad": "Caballeria",
+                    "mejora": "Jinete a camello"
+                }
+            ],
             "tecnologias_unicas": {
                 "castillos": "Chatrias",
                 "castillos_info": "Las unidades militares cuestan -25% comida",
@@ -520,12 +565,14 @@
             "civilizacion": "Hunos",
             "icono": "CivIcon-Hunos.webp",
             "especialidad": "Caballería",
-            "unidad_unica": {
-                "nombre": "Tarcano",
-                "icono": "Tarcano_Icono-DE.webp",
-                "especialidad": "Caballeria",
-                "mejora": "Tarcano de Élite"
-            },
+            "unidad_unica": [
+                {
+                    "nombre": "Tarcano",
+                    "icono": "Tarcano_Icono-DE.webp",
+                    "especialidad": "Caballeria",
+                    "mejora": "Tarcano de Élite"
+                }
+            ],
             "tecnologias_unicas": {
                 "castillos": "Razias",
                 "castillos_info": "Permite que los Tarcanos puedan ser entrenados en el Establo",
@@ -543,17 +590,20 @@
             "civilizacion": "Incas",
             "icono": "CivIcon-Incas.webp",
             "especialidad": "Infantería",
-            "unidad_unica": {
-                "nombre": "Kamayuk",
-                "icono": "Kamayuk_Icono-DE.webp",
-                "especialidad": "Infanteria",
-                "mejora": "Kamayuk de Élite"
-            },
-            "unidad_unica_2": {
-                "nombre": "Hondero",
-                "icono": "Hondero_Icono-DE.webp",
-                "especialidad": "Arquero"
-            },
+            "unidad_unica": [
+                {
+                    "nombre": "Kamayuk",
+                    "icono": "Kamayuk_Icono-DE.webp",
+                    "especialidad": "Infanteria",
+                    "mejora": "Kamayuk de Élite"
+                },
+                {
+                    "nombre": "Hondero",
+                    "icono": "Hondero_Icono-DE.webp",
+                    "especialidad": "Arquero",
+                    "mejora": "Unidad no mejorable"
+                }
+            ],
             "tecnologias_unicas": {
                 "castillos": "Huaracas",
                 "castillos_info": "Se elimina el rango mínimo de los Guerrilleros, Honderos y Genitores",
@@ -573,18 +623,20 @@
             "civilizacion": "Indostaníes",
             "icono": "Civ-Icon_Indostanies.webp",
             "especialidad": "Camellos y pólvora",
-            "unidad_unica": {
-                "nombre": "Ghulam",
-                "icono": "Ghulam_Icono.webp",
-                "especialidad": "Infanteria",
-                "mejora": "Ghulam de Élite"
-            },
-            "unidad_unica_2": {
-                "nombre": "Jinete a Camello Imperial",
-                "icono": "Camello_Imperial_Icono-DE.webp",
-                "especialidad": "Caballeria",
-                "mejora": "Jinete a camello pesado"
-            },
+            "unidad_unica": [
+                {
+                    "nombre": "Ghulam",
+                    "icono": "Ghulam_Icono.webp",
+                    "especialidad": "Infanteria",
+                    "mejora": "Ghulam de Élite"
+                },
+                {
+                    "nombre": "Jinete a Camello Imperial",
+                    "icono": "Camello_Imperial_Icono-DE.webp",
+                    "especialidad": "Caballeria",
+                    "mejora": "Jinete a camello pesado"
+                }
+            ],
             "tecnologias_unicas": {
                 "castillos": "Camino del Gran Tronco",
                 "castillos_info": "Aumenta la velocidad de obtención de oro (minería, comercio y reliquias) en un +10%",
@@ -603,12 +655,14 @@
             "civilizacion": "Italianos",
             "icono": "CivIcon-Italianos.webp",
             "especialidad": "Arqueros y naval",
-            "unidad_unica": {
-                "nombre": "Genovés Ballestero",
-                "icono": "Genoves_BallesteroIcono-DE.webp",
-                "especialidad": "Arquero",
-                "mejora": "Genovés Ballestero de Élite"
-            },
+            "unidad_unica": [
+                {
+                    "nombre": "Genovés Ballestero",
+                    "icono": "Genoves_BallesteroIcono-DE.webp",
+                    "especialidad": "Arquero",
+                    "mejora": "Genovés Ballestero de Élite"
+                }
+            ],
             "tecnologias_unicas": {
                 "castillos": "Escudo Pavés",
                 "castillos_info": "Aumenta la armadura de los arqueros a pie en un +1/+1",
@@ -627,12 +681,14 @@
             "civilizacion": "Japoneses",
             "icono": "CivIcon-Japoneses.webp",
             "especialidad": "Infantería",
-            "unidad_unica": {
-                "nombre": "Samurái",
-                "icono": "Samurai-Icono-DE.webp",
-                "especialidad": "Infanteria",
-                "mejora": "Samurái de Élite"
-            },
+            "unidad_unica": [
+                {
+                    "nombre": "Samurái",
+                    "icono": "Samurai-Icono-DE.webp",
+                    "especialidad": "Infanteria",
+                    "mejora": "Samurái de Élite"
+                }
+            ],
             "tecnologias_unicas": {
                 "castillos": "Yasama",
                 "castillos_info": "Hace que las torres disparen flechas adicionales",
@@ -650,12 +706,14 @@
             "civilizacion": "Jemeres",
             "icono": "CivIcon-Jemeres.webp",
             "especialidad": "Elefantes y asedio",
-            "unidad_unica": {
-                "nombre": "Elefante con ballesta",
-                "icono": "Elefante_ballesta_icono-DE.webp",
-                "especialidad": "Caballeria Asedio",
-                "mejora": "Elefante con ballesta de Élite"
-            },
+            "unidad_unica": [
+                {
+                    "nombre": "Elefante con ballesta",
+                    "icono": "Elefante_ballesta_icono-DE.webp",
+                    "especialidad": "Caballeria Asedio",
+                    "mejora": "Elefante con ballesta de Élite"
+                }
+            ],
             "tecnologias_unicas": {
                 "castillos": "Colmillos de Acero",
                 "castillos_info": "Le da +3 de ataque a los Elefantes de Combate",
@@ -674,12 +732,14 @@
             "civilizacion": "Lituanos",
             "icono": "CivIcon-Lituanos.webp",
             "especialidad": "Caballeria y monjes",
-            "unidad_unica": {
-                "nombre": "Leitis",
-                "icono": "Leitisicon.webp",
-                "especialidad": "Caballeria",
-                "mejora": "Leitis de Élite"
-            },
+            "unidad_unica": [
+                {
+                    "nombre": "Leitis",
+                    "icono": "Leitisicon.webp",
+                    "especialidad": "Caballeria",
+                    "mejora": "Leitis de Élite"
+                }
+            ],
             "tecnologias_unicas": {
                 "castillos": "Castros bálticos",
                 "castillos_info": "Los Centros Urbanos tienen +3 de alcance",
@@ -697,12 +757,14 @@
             "civilizacion": "Magiares",
             "icono": "CivIcon-Magiares.webp",
             "especialidad": "Caballeria",
-            "unidad_unica": {
-                "nombre": "Huszár Magiar",
-                "icono": "Huszar_Magiar_Icono-DE.webp",
-                "especialidad": "Caballeria",
-                "mejora": "Huszár Magiar de Élite"
-            },
+            "unidad_unica": [
+                {
+                    "nombre": "Huszár Magiar",
+                    "icono": "Huszar_Magiar_Icono-DE.webp",
+                    "especialidad": "Caballeria",
+                    "mejora": "Huszár Magiar de Élite"
+                }
+            ],
             "tecnologias_unicas": {
                 "castillos": "Ejército Corviniano",
                 "castillos_info": "Elimina el costo de oro de los Huszares Magiares",
@@ -720,12 +782,14 @@
             "civilizacion": "Malayos",
             "icono": "CivIcon-Malayos.webp",
             "especialidad": "Naval",
-            "unidad_unica": {
-                "nombre": "Recluta con Karambit",
-                "icono": "Karambit_icono-DE.webp",
-                "especialidad": "Infanteria",
-                "mejora": "Recluta con Karambit de Élite"
-            },
+            "unidad_unica": [
+                {
+                    "nombre": "Recluta con Karambit",
+                    "icono": "Karambit_icono-DE.webp",
+                    "especialidad": "Infanteria",
+                    "mejora": "Recluta con Karambit de Élite"
+                }
+            ],
             "tecnologias_unicas": {
                 "castillos": "Talasocracia",
                 "castillos_info": "Los Muelles se convierten en Puertos, los cuales disparan flechas",
@@ -743,12 +807,14 @@
             "civilizacion": "Malíes",
             "icono": "CivIcon-Malies.webp",
             "especialidad": "Infantería",
-            "unidad_unica": {
-                "nombre": "Gbeto",
-                "icono": "Gbeto_Icono-DE.webp",
-                "especialidad": "Infanteria",
-                "mejora": "Gbeto de Élite"
-            },
+            "unidad_unica": [
+                {
+                    "nombre": "Gbeto",
+                    "icono": "Gbeto_Icono-DE.webp",
+                    "especialidad": "Infanteria",
+                    "mejora": "Gbeto de Élite"
+                }
+            ],
             "tecnologias_unicas": {
                 "castillos": "Gran Asamblea",
                 "castillos_info": "Los centros urbanos disparan flecha sin la necesidad de guarecer aldeanos",
@@ -766,12 +832,14 @@
             "civilizacion": "Mayas",
             "icono": "CivIcon-Mayas.webp",
             "especialidad": "Arqueros",
-            "unidad_unica": {
-                "nombre": "Arquero emplumado",
-                "icono": "Arquero_Plumas_Icono-DE.webp",
-                "especialidad": "Arquero",
-                "mejora": "Arquero emplumado de Élite"
-            },
+            "unidad_unica": [
+                {
+                    "nombre": "Arquero emplumado",
+                    "icono": "Arquero_Plumas_Icono-DE.webp",
+                    "especialidad": "Arquero",
+                    "mejora": "Arquero emplumado de Élite"
+                }
+            ],
             "tecnologias_unicas": {
                 "castillos": "Jabalineros Hul'che",
                 "castillos_info": "Permite a los Hostigadores lanzar un segundo proyectil",
@@ -790,12 +858,14 @@
             "civilizacion": "Mongoles",
             "icono": "CivIcon-Mongoles.webp",
             "especialidad": "Arqueros a caballo",
-            "unidad_unica": {
-                "nombre": "Mangudai",
-                "icono": "Mangudai_Icono-DE.webp",
-                "especialidad": "Caballeria Arquero",
-                "mejora": "Mangudai de Élite"
-            },
+            "unidad_unica": [
+                {
+                    "nombre": "Mangudai",
+                    "icono": "Mangudai_Icono-DE.webp",
+                    "especialidad": "Caballeria Arquero",
+                    "mejora": "Mangudai de Élite"
+                }
+            ],
             "tecnologias_unicas": {
                 "castillos": "Nómadas",
                 "castillos_info": "Aunque tus casas sean destruidas, no pierdes la capacidad poblacional que admitían",
@@ -813,12 +883,14 @@
             "civilizacion": "Persas",
             "icono": "CivIcon-Persas.webp",
             "especialidad": "Caballeria",
-            "unidad_unica": {
-                "nombre": "Elefante de guerra",
-                "icono": "ElefanteGuerra-Icono-DE.webp",
-                "especialidad": "Caballeria",
-                "mejora": "Elefante de guerra de Élite"
-            },
+            "unidad_unica": [
+                {
+                    "nombre": "Elefante de guerra",
+                    "icono": "ElefanteGuerra-Icono-DE.webp",
+                    "especialidad": "Caballeria",
+                    "mejora": "Elefante de guerra de Élite"
+                }
+            ],
             "tecnologias_unicas": {
                 "castillos": "Kamandaran",
                 "castillos_info": "Remplaza el coste de los arqueros de 25 madera, 45 oro por solamente 50 madera, convirtiéndose en una unidad barata",
@@ -835,12 +907,14 @@
             "civilizacion": "Polacos",
             "icono": "Polacos_Icono.webp",
             "especialidad": "Caballeria",
-            "unidad_unica": {
-                "nombre": "Martillo de guerra",
-                "icono": "Obuch_Icono.webp",
-                "especialidad": "Infanteria",
-                "mejora": "Martillo de guerra de Élite"
-            },
+            "unidad_unica": [
+                {
+                    "nombre": "Martillo de guerra",
+                    "icono": "Obuch_Icono.webp",
+                    "especialidad": "Infanteria",
+                    "mejora": "Martillo de guerra de Élite"
+                }
+            ],
             "tecnologias_unicas": {
                 "castillos": "Privilegios de Szlachta",
                 "castillos_info": "Reduce el coste en oro de Jinetes y subsiguientes en un 60%",
@@ -858,18 +932,20 @@
             "civilizacion": "Portugueses",
             "icono": "CivIcon-Portugueses.webp",
             "especialidad": "Naval y pólvora",
-            "unidad_unica": {
-                "nombre": "Cañón de salvas",
-                "icono": "Cañon_salvas_aoe2DE.webp",
-                "especialidad": "Asedio",
-                "mejora": "Cañón de salvas de Élite"
-            },
-            "unidad_unica_2": {
-                "nombre": "Carabela",
-                "icono": "Carabela_Icono-DE.webp",
-                "especialidad": "Naval",
-                "mejora": "Carabela de Élite"
-            },
+            "unidad_unica": [
+                {
+                    "nombre": "Cañón de salvas",
+                    "icono": "Cañon_salvas_aoe2DE.webp",
+                    "especialidad": "Asedio",
+                    "mejora": "Cañón de salvas de Élite"
+                },
+                {
+                    "nombre": "Carabela",
+                    "icono": "Carabela_Icono-DE.webp",
+                    "especialidad": "Naval",
+                    "mejora": "Carabela de Élite"
+                }
+            ],
             "tecnologias_unicas": {
                 "castillos": "Carracas",
                 "castillos_info": "Aumenta la armadura de barcos en un +1/+1",
@@ -888,17 +964,20 @@
             "civilizacion": "Romanos",
             "icono": "CivIcon-Romanos.webp",
             "especialidad": "Infanteria",
-            "unidad_unica": {
-                "nombre": "Centurión",
-                "icono": "Centurion-Icono.webp",
-                "especialidad": "Asedio",
-                "mejora": "Centurión de Élite"
-            },
-            "unidad_unica_2": {
-                "nombre": "Legionario",
-                "icono": "Legionario-Icono.webp",
-                "especialidad": "Infanteria"
-            },
+            "unidad_unica": [
+                {
+                    "nombre": "Centurión",
+                    "icono": "Centurion-Icono.webp",
+                    "especialidad": "Asedio",
+                    "mejora": "Centurión de Élite"
+                },
+                {
+                    "nombre": "Legionario",
+                    "icono": "Legionario-Icono.webp",
+                    "especialidad": "Infanteria",
+                    "mejora": "Unidad no mejorable"
+                }
+            ],
             "tecnologias_unicas": {
                 "castillos": "Balistas",
                 "castillos_info": "Aumenta la velocidad de ataque de los Escorpiones y de las Galeras en un 33%",
@@ -918,12 +997,14 @@
             "civilizacion": "Saracenos",
             "icono": "CivIcon-Sarracenos.webp",
             "especialidad": "Camellos y naval",
-            "unidad_unica": {
-                "nombre": "Mameluco",
-                "icono": "Mameluco-Icono-DE.webp",
-                "especialidad": "Caballeria",
-                "mejora": "Mameluco de Élite"
-            },
+            "unidad_unica": [
+                {
+                    "nombre": "Mameluco",
+                    "icono": "Mameluco-Icono-DE.webp",
+                    "especialidad": "Caballeria",
+                    "mejora": "Mameluco de Élite"
+                }
+            ],
             "tecnologias_unicas": {
                 "castillos": "Fanatismo",
                 "castillos_info": "Los Camellos y Mamelucos tienen +20 puntos de resistencia",
@@ -943,12 +1024,14 @@
             "civilizacion": "Sicilianos",
             "icono": "CivIcon-Sicilianos.webp",
             "especialidad": "Infantería",
-            "unidad_unica": {
-                "nombre": "Serjeant",
-                "icono": "Sargento_Icono.webp",
-                "especialidad": "Infanteria",
-                "mejora": "Serjeant de Élite"
-            },
+            "unidad_unica": [
+                {
+                    "nombre": "Serjeant",
+                    "icono": "Sargento_Icono.webp",
+                    "especialidad": "Infanteria",
+                    "mejora": "Serjeant de Élite"
+                }
+            ],
             "tecnologias_unicas": {
                 "castillos": "Primera Cruzada",
                 "castillos_info": "Cada Centro urbano (maximo 5) genera un grupo de 5 Serjeants; las unidades son mas resistentes a la conversión",
@@ -968,17 +1051,20 @@
             "civilizacion": "Tártaros",
             "icono": "CivIcon-Tataros.webp",
             "especialidad": "Arqueros a caballo",
-            "unidad_unica": {
-                "nombre": "Keshik",
-                "icono": "Keshikicon.webp",
-                "especialidad": "Caballería",
-                "mejora": "Keshik de Élite"
-            },
-            "unidad_unica_2": {
-                "nombre": "Camello Llameante",
-                "icono": "Camello_llameante_icono.webp",
-                "especialidad": "Unidad suicida"
-            },
+            "unidad_unica": [
+                {
+                    "nombre": "Keshik",
+                    "icono": "Keshikicon.webp",
+                    "especialidad": "Caballería",
+                    "mejora": "Keshik de Élite"
+                },
+                {
+                    "nombre": "Camello Llameante",
+                    "icono": "Camello_llameante_icono.webp",
+                    "especialidad": "Unidad suicida",
+                    "mejora": "Unidad no mejorable"
+                }
+            ],
             "tecnologias_unicas": {
                 "castillos": "Armadura de seda",
                 "castillos_info": "Otorga a la línea de la Caballería de Exploración, al Arquero a Caballo, al Lancero de la Estepa, al Escaramuzador Zenete y al Kipchak, +1 de armadura anti-proyectil",
@@ -997,12 +1083,14 @@
             "civilizacion": "Teutones",
             "icono": "CivIcon-Teutones.webp",
             "especialidad": "Infantería",
-            "unidad_unica": {
-                "nombre": "Caballero de la Orden Teutónica",
-                "icono": "Caballero_Orden_Teutonica_Icono-DE.webp",
-                "especialidad": "Infanteria",
-                "mejora": "Caballero de la Orden Teutónica de Élite"
-            },
+            "unidad_unica": [
+                {
+                    "nombre": "Caballero de la Orden Teutónica",
+                    "icono": "Caballero_Orden_Teutonica_Icono-DE.webp",
+                    "especialidad": "Infanteria",
+                    "mejora": "Caballero de la Orden Teutónica de Élite"
+                }
+            ],
             "tecnologias_unicas": {
                 "castillos": "Blindaje",
                 "castillos_info": "Las armas de asedio obtendrán la armadura cuerpo a cuerpo",
@@ -1023,12 +1111,14 @@
             "civilizacion": "Turcos",
             "icono": "CivIcon-Turcos.webp",
             "especialidad": "Pólvora",
-            "unidad_unica": {
-                "nombre": "Jenízaro",
-                "icono": "Jenizaro_Icono-DE.webp",
-                "especialidad": "pólvora",
-                "mejora": "Jenízaro de Élite"
-            },
+            "unidad_unica": [
+                {
+                    "nombre": "Jenízaro",
+                    "icono": "Jenizaro_Icono-DE.webp",
+                    "especialidad": "pólvora",
+                    "mejora": "Jenízaro de Élite"
+                }
+            ],
             "tecnologias_unicas": {
                 "castillos": "Sipahi",
                 "castillos_info": "Aumenta los puntos de resistencia de los Arqueros a caballo y Genitores en un 20%",
@@ -1047,12 +1137,14 @@
             "civilizacion": "Vietnamitas",
             "icono": "CivIcon-Vietnamitas.webp",
             "especialidad": "Arqueros",
-            "unidad_unica": {
-                "nombre": "Arquero de Ratán",
-                "icono": "Arquero_Ratan_icono-DE.webp",
-                "especialidad": "Arquero",
-                "mejora": "Arquero de Ratán de Élite"
-            },
+            "unidad_unica": [
+                {
+                    "nombre": "Arquero de Ratán",
+                    "icono": "Arquero_Ratan_icono-DE.webp",
+                    "especialidad": "Arquero",
+                    "mejora": "Arquero de Ratán de Élite"
+                }
+            ],
             "tecnologias_unicas": {
                 "castillos": "Chatras",
                 "castillos_info": "Le da +50 puntos de resistencia a los Elefantes de Combate",
@@ -1071,18 +1163,20 @@
             "civilizacion": "Vikingos",
             "icono": "CivIcon-Vikingos.webp",
             "especialidad": "Infantería y naval",
-            "unidad_unica": {
-                "nombre": "Berserker",
-                "icono": "Berserk_Icono-DE.webp",
-                "especialidad": "Infanteria",
-                "mejora": "Berserker de Élite"
-            },
-            "unidad_unica_2": {
-                "nombre": "Drakkar",
-                "icono": "Barco_Dragon_Icono-DE.webp",
-                "especialidad": "Naval",
-                "mejora": "Drakkar de Élite"
-            },
+            "unidad_unica": [
+                {
+                    "nombre": "Berserker",
+                    "icono": "Berserk_Icono-DE.webp",
+                    "especialidad": "Infanteria",
+                    "mejora": "Berserker de Élite"
+                },
+                {
+                    "nombre": "Drakkar",
+                    "icono": "Barco_Dragon_Icono-DE.webp",
+                    "especialidad": "Naval",
+                    "mejora": "Drakkar de Élite"
+                }
+            ],
             "tecnologias_unicas": {
                 "castillos": "Hérsires",
                 "castillos_info": "La infantería obtiene una bonificación de ataque de +5 contra la caballería y de +4 contra unidades a camello",

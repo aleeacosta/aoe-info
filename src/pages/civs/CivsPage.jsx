@@ -5,16 +5,11 @@ import Civs from "../../components/civs/Civs";
 
 const CivsPage = () => {
   const civsResponse = getCivs();
-  console.log(civsResponse);
-
-  const title = "Civilizaciones"
-  const subtitle = "Informacion sobre las Civilizaciones"
+  const title = "Civilizaciones" 
   
   return (
-    <div className="p-8 bg-yellow-50">
-      {/* <h1 className="flex justify-center">{title}</h1>
-      <p className="flex justify-center pb-8">{subtitle}</p> */}
-      
+    <div className="p-8 xl:px-12 2xl:px-40 bg-yellow-50">
+      <h1 className="flex justify-center py-2 md:py-6 text-4xl font-bold text-neutral-900">{title}</h1>     
       <Civs civsResponse={civsResponse} />
     </div>
   );

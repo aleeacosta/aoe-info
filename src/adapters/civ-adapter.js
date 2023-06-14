@@ -18,6 +18,7 @@ export const civAdapter = (civToMap) => {
     bonus_civ: civToMap.bonificaciones_civilizacion,
     bonus_eq: civToMap.bonificacion_equipo,
     unidad_unica: civToMap.unidad_unica,
+    tecno_unica: civToMap.tecnologias_unicas,
   }
   return civMapped;
 }
