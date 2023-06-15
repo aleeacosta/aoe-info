@@ -1,9 +1,9 @@
-import {getCivs} from "../../services/civs-api";
-import Civs from "../../components/civs/Civs";
 import { useState } from "react";
-import BtnFiltro from "../../components/BtnFiltro";
+import { getCivs } from "../../services/civs-api";
 import { TbBow, TbShieldFilled, TbSword, TbCrossFilled, TbSailboat2, TbComponents } from "react-icons/tb";
 import { GiCatapult, GiHorseHead, GiCamel, GiElephant, GiGunshot } from "react-icons/gi"
+import Civs from "../../components/civs/Civs";
+import BtnFiltro from "../../components/civs/BtnFiltro";
 
 const CivsPage = () => {
   const civsResponse = getCivs();
