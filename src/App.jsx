@@ -1,15 +1,17 @@
 import CivsPage from "./pages/civs/CivsPage"
 import CivsDetail from "./components/civs/CivsDetail"
-import {Routes, Route} from 'react-router-dom'
+import {Routes, Route, Link} from 'react-router-dom'
 
 function App() { 
 
   return (
     <>
-      <div className="px-5 md:px-24 lg:px-32 2xl:px-64 drop-shadow-lg flex items-center justify-start bg-orange-600 text-neutral-100 py-6 text-4xl font-bold gap-8">
-        <img className="w-12" src='./../iconosAoe/logoaoe.png' alt="logo aoe" />
-        <h1 className="">Age of Empires Info</h1>       
-      </div>
+      <header className="px-5 md:px-24 lg:px-32 2xl:px-64 drop-shadow-lg bg-yellow-500 text-neutral-100 py-6 text-4xl font-bold ">
+        <Link className="flex items-center justify-start gap-4 w-fit hover:scale-105 transition ease-in-out" to={`/`}>
+          <img className="w-14 drop-shadow-md" src='./../iconosAoe/logoaoe.png' alt="logo aoe" />
+          <h1 className="text-2xl w-32 drop-shadow-md">Age of Empires Info</h1> 
+        </Link>      
+      </header>
       <Routes>
         <Route path='/' element={<CivsPage />}  />
         <Route path='/:civilizacion' element={<CivsDetail/>}  />        
