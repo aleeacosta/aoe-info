@@ -8,7 +8,7 @@
                 {
                     "nombre": "Guerrero Jaguar",
                     "icono": "Guerrero_Jaguar_Icono-DE.webp",
-                    "especialidad": "Infanteria",
+                    "especialidad": "Infantería",
                     "mejora": "Guerrero Jaguar de Élite"
                 }
             ],
@@ -35,7 +35,7 @@
                 {
                     "nombre": "Ratha",
                     "icono": "Ratha_Icono.webp",
-                    "especialidad": "Arquero Caballeria",
+                    "especialidad": "Arquero Caballería",
                     "mejora": "Ratha de Élite"
                 }
             ],
@@ -61,7 +61,7 @@
                 {
                     "nombre": "Camello Arquero",
                     "icono": "CamelloArquero_Icono-DE.webp",
-                    "especialidad": "Arquero Caballeria",
+                    "especialidad": "Arquero Caballería",
                     "mejora": "Camello Arquero de Élite"
                 }
             ],
@@ -85,7 +85,7 @@
                 {
                     "nombre": "Arambai",
                     "icono": "Arambai_Icono-DE.webp",
-                    "especialidad": "Arquero Caballeria",
+                    "especialidad": "Arquero Caballería",
                     "mejora": "Arambai de Élite"
                 }
             ],
@@ -111,7 +111,7 @@
                 {
                     "nombre": "Catafracta",
                     "icono": "Catafacta-Icono-DE.webp",
-                    "especialidad": "Caballeria",
+                    "especialidad": "Caballería",
                     "mejora": "Catafracta de Élite"
                 }
             ],
@@ -171,13 +171,13 @@
                 {
                     "nombre": "Coustillier",
                     "icono": "Coustillier_Icono.webp",
-                    "especialidad": "Caballeria",
+                    "especialidad": "Caballería",
                     "mejora": "Coustillier de Élite"
                 },
                 {
                     "nombre": "Milicia Flamenca",
                     "icono": "Milicia_Flamenca_Icono.webp",
-                    "especialidad": "Infanteria",
+                    "especialidad": "Infantería",
                     "mejora": "Unidad no mejorable"
                 }
             ],
@@ -223,12 +223,12 @@
         {
             "civilizacion": "Búlgaros",
             "icono": "CivIcon-Bulgaros.webp",
-            "especialidad": "Infanteria",
+            "especialidad": "Infantería",
             "unidad_unica": [
                 {
                     "nombre": "Konnik",
                     "icono": "Konnikicon.webp",
-                    "especialidad": "Caballeria",
+                    "especialidad": "Caballería",
                     "mejora": "Konnik de Élite"
                 }
             ],
@@ -254,7 +254,7 @@
                 {
                     "nombre": "Invasor de pastos",
                     "icono": "Invasor_Icono-DE.webp",
-                    "especialidad": "Infanteria",
+                    "especialidad": "Infantería",
                     "mejora": "Invasor de pastos de Élite"
                 }
             ],
@@ -306,7 +306,7 @@
                 {
                     "nombre": "Carreta de guerra",
                     "icono": "Carreta_Guerra_Icono-DE.webp",
-                    "especialidad": "Caballeria",
+                    "especialidad": "Caballería",
                     "mejora": "Carreta de guerra de Élite"
                 },
                 {
@@ -339,7 +339,7 @@
                 {
                     "nombre": "Kipchak",
                     "icono": "Kipchakicon.webp",
-                    "especialidad": "Arquero Caballeria",
+                    "especialidad": "Arquero Caballería",
                     "mejora": "Kipchak de Élite"
                 }
             ],
@@ -365,7 +365,7 @@
                 {
                     "nombre": "Espadachín urumi",
                     "icono": "Espadachin_Urumi_Icono.webp",
-                    "especialidad": "Infanteria",
+                    "especialidad": "Infantería",
                     "mejora": "Espadachín urumi de Élite"
                 },
                 {
@@ -397,7 +397,7 @@
                 {
                     "nombre": "Boyardo",
                     "icono": "Boyardo-Icono-DE.webp",
-                    "especialidad": "Caballeria",
+                    "especialidad": "Caballería",
                     "mejora": "Boyardo de Élite"
                 }
             ],
@@ -422,7 +422,7 @@
                 {
                     "nombre": "Conquistador",
                     "icono": "Conquistador-Icono-DE.webp",
-                    "especialidad": "Caballeria Monje",
+                    "especialidad": "Caballería Monje",
                     "mejora": "Conquistador de Élite"
                 },
                 {
@@ -454,7 +454,7 @@
                 {
                     "nombre": "Shotelai",
                     "icono": "Shotelai_icono-DE.webp",
-                    "especialidad": "Infanteria",
+                    "especialidad": "Infantería",
                     "mejora": "Shotelai de Élite"
                 }
             ],
@@ -479,7 +479,7 @@
                 {
                     "nombre": "Lanzador de hachas",
                     "icono": "Lanzador_Hachas_Icono-DE.webp",
-                    "especialidad": "Infanteria",
+                    "especialidad": "Infantería",
                     "mejora": "Lanzador de hachas de Élite"
                 }
             ],
@@ -492,7 +492,7 @@
             "bonificaciones_civilizacion": [
                 "Recolectores de bayas trabajan 15% mas rápido",
                 "Castillos cuestan -25%",
-                "Unidades de caballeria +20% ptos. Resistencia",
+                "Unidades de Caballería +20% ptos. Resistencia",
                 "Mejoras de granja gratis (requieren molino)"
             ],
             "bonificacion_equipo": "Jinetes +2 LDV"
@@ -505,7 +505,7 @@
                 {
                     "nombre": "Huscarle",
                     "icono": "Huscarle_Icono-DE.webp",
-                    "especialidad": "Infanteria",
+                    "especialidad": "Infantería",
                     "mejora": "Huscarle de Élite"
                 }
             ],
@@ -531,19 +531,19 @@
                 {
                     "nombre": "Lanzador Chakram",
                     "icono": "Lanzador_Chakram_Icono.webp",
-                    "especialidad": "Infanteria",
+                    "especialidad": "Infantería",
                     "mejora": "Lanzador Chakram de Élite"
                 },
                 {
                     "nombre": "Jinete Shrivamsha",
                     "icono": "Jinete_Shrivamsha_Icono.webp",
-                    "especialidad": "Caballeria",
+                    "especialidad": "Caballería",
                     "mejora": "Jinete Shrivamsha de Élite"
                 },
                 {
                     "nombre": "Explorador a camello",
                     "icono": "Explorador_a_Camello_Icono.webp",
-                    "especialidad": "Caballeria",
+                    "especialidad": "Caballería",
                     "mejora": "Jinete a camello"
                 }
             ],
@@ -569,7 +569,7 @@
                 {
                     "nombre": "Tarcano",
                     "icono": "Tarcano_Icono-DE.webp",
-                    "especialidad": "Caballeria",
+                    "especialidad": "Caballería",
                     "mejora": "Tarcano de Élite"
                 }
             ],
@@ -594,7 +594,7 @@
                 {
                     "nombre": "Kamayuk",
                     "icono": "Kamayuk_Icono-DE.webp",
-                    "especialidad": "Infanteria",
+                    "especialidad": "Infantería",
                     "mejora": "Kamayuk de Élite"
                 },
                 {
@@ -627,13 +627,13 @@
                 {
                     "nombre": "Ghulam",
                     "icono": "Ghulam_Icono.webp",
-                    "especialidad": "Infanteria",
+                    "especialidad": "Infantería",
                     "mejora": "Ghulam de Élite"
                 },
                 {
                     "nombre": "Jinete a Camello Imperial",
                     "icono": "Camello_Imperial_Icono-DE.webp",
-                    "especialidad": "Caballeria",
+                    "especialidad": "Caballería",
                     "mejora": "Jinete a camello pesado"
                 }
             ],
@@ -685,7 +685,7 @@
                 {
                     "nombre": "Samurái",
                     "icono": "Samurai-Icono-DE.webp",
-                    "especialidad": "Infanteria",
+                    "especialidad": "Infantería",
                     "mejora": "Samurái de Élite"
                 }
             ],
@@ -710,7 +710,7 @@
                 {
                     "nombre": "Elefante con ballesta",
                     "icono": "Elefante_ballesta_icono-DE.webp",
-                    "especialidad": "Caballeria Asedio",
+                    "especialidad": "Caballería Asedio",
                     "mejora": "Elefante con ballesta de Élite"
                 }
             ],
@@ -731,12 +731,12 @@
         {
             "civilizacion": "Lituanos",
             "icono": "CivIcon-Lituanos.webp",
-            "especialidad": "Caballeria y monjes",
+            "especialidad": "Caballería y monjes",
             "unidad_unica": [
                 {
                     "nombre": "Leitis",
                     "icono": "Leitisicon.webp",
-                    "especialidad": "Caballeria",
+                    "especialidad": "Caballería",
                     "mejora": "Leitis de Élite"
                 }
             ],
@@ -756,12 +756,12 @@
         {
             "civilizacion": "Magiares",
             "icono": "CivIcon-Magiares.webp",
-            "especialidad": "Caballeria",
+            "especialidad": "Caballería",
             "unidad_unica": [
                 {
                     "nombre": "Huszár Magiar",
                     "icono": "Huszar_Magiar_Icono-DE.webp",
-                    "especialidad": "Caballeria",
+                    "especialidad": "Caballería",
                     "mejora": "Huszár Magiar de Élite"
                 }
             ],
@@ -786,7 +786,7 @@
                 {
                     "nombre": "Recluta con Karambit",
                     "icono": "Karambit_icono-DE.webp",
-                    "especialidad": "Infanteria",
+                    "especialidad": "Infantería",
                     "mejora": "Recluta con Karambit de Élite"
                 }
             ],
@@ -811,7 +811,7 @@
                 {
                     "nombre": "Gbeto",
                     "icono": "Gbeto_Icono-DE.webp",
-                    "especialidad": "Infanteria",
+                    "especialidad": "Infantería",
                     "mejora": "Gbeto de Élite"
                 }
             ],
@@ -862,7 +862,7 @@
                 {
                     "nombre": "Mangudai",
                     "icono": "Mangudai_Icono-DE.webp",
-                    "especialidad": "Caballeria Arquero",
+                    "especialidad": "Caballería Arquero",
                     "mejora": "Mangudai de Élite"
                 }
             ],
@@ -882,12 +882,12 @@
         {
             "civilizacion": "Persas",
             "icono": "CivIcon-Persas.webp",
-            "especialidad": "Caballeria",
+            "especialidad": "Caballería",
             "unidad_unica": [
                 {
                     "nombre": "Elefante de guerra",
                     "icono": "ElefanteGuerra-Icono-DE.webp",
-                    "especialidad": "Caballeria",
+                    "especialidad": "Caballería",
                     "mejora": "Elefante de guerra de Élite"
                 }
             ],
@@ -906,12 +906,12 @@
         {
             "civilizacion": "Polacos",
             "icono": "Polacos_Icono.webp",
-            "especialidad": "Caballeria",
+            "especialidad": "Caballería",
             "unidad_unica": [
                 {
                     "nombre": "Martillo de guerra",
                     "icono": "Obuch_Icono.webp",
-                    "especialidad": "Infanteria",
+                    "especialidad": "Infantería",
                     "mejora": "Martillo de guerra de Élite"
                 }
             ],
@@ -963,7 +963,7 @@
         {
             "civilizacion": "Romanos",
             "icono": "CivIcon-Romanos.webp",
-            "especialidad": "Infanteria",
+            "especialidad": "Infantería",
             "unidad_unica": [
                 {
                     "nombre": "Centurión",
@@ -974,7 +974,7 @@
                 {
                     "nombre": "Legionario",
                     "icono": "Legionario-Icono.webp",
-                    "especialidad": "Infanteria",
+                    "especialidad": "Infantería",
                     "mejora": "Unidad no mejorable"
                 }
             ],
@@ -1001,7 +1001,7 @@
                 {
                     "nombre": "Mameluco",
                     "icono": "Mameluco-Icono-DE.webp",
-                    "especialidad": "Caballeria",
+                    "especialidad": "Caballería",
                     "mejora": "Mameluco de Élite"
                 }
             ],
@@ -1028,7 +1028,7 @@
                 {
                     "nombre": "Serjeant",
                     "icono": "Sargento_Icono.webp",
-                    "especialidad": "Infanteria",
+                    "especialidad": "Infantería",
                     "mejora": "Serjeant de Élite"
                 }
             ],
@@ -1087,7 +1087,7 @@
                 {
                     "nombre": "Caballero de la Orden Teutónica",
                     "icono": "Caballero_Orden_Teutonica_Icono-DE.webp",
-                    "especialidad": "Infanteria",
+                    "especialidad": "Infantería",
                     "mejora": "Caballero de la Orden Teutónica de Élite"
                 }
             ],
@@ -1129,7 +1129,7 @@
                 "CUnidades de pólvora +25% ptos. resistencia y tecnologías de pólvora cuestan -50%",
                 "Química gratis",
                 "Mineros de oro trabajan 20% más rápido",
-                "Mejoras de caballeria ligera y húsar gratis"
+                "Mejoras de Caballería ligera y húsar gratis"
             ],
             "bonificacion_equipo": "Unidades de pólvora son creadas 25% más rápido"
         },
@@ -1167,7 +1167,7 @@
                 {
                     "nombre": "Berserker",
                     "icono": "Berserk_Icono-DE.webp",
-                    "especialidad": "Infanteria",
+                    "especialidad": "Infantería",
                     "mejora": "Berserker de Élite"
                 },
                 {
