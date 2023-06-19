@@ -1,3 +1,4 @@
+import { useEffect } from 'react';
 import { getCiv } from '../../services/civs-api';
 import { useParams } from 'react-router-dom'
 import TecUniCard from './TecUniCard';
@@ -10,6 +11,10 @@ const UserDetail = () => {
     const { civilizacion } = useParams()    
     const civ = getCiv( civilizacion ); 
     const { bonus_civ:bc, bonus_eq:be, tecno_unica:tu, unidad_unica:uu } = civ
+
+    useEffect(() => {
+      window.scrollTo(0, 0)
+    }, [])
 
   return (
     <>           
