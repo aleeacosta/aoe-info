@@ -12,6 +12,11 @@ export default {
       screens: {
         '3xl': '1700px',
       },
+      keyframes: {
+        s1: {            
+          'to': { transform: 'rotate(1turn)'}
+        }
+      },      
     },
   },
   plugins: [],
